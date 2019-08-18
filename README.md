@@ -13,8 +13,8 @@ https://www.anaconda.com/distribution/
 
 #### Windows users:
 Please install the windows ubuntu subsystem using these instructions:
+
 https://docs.microsoft.com/en-us/windows/wsl/install-win10
 
 #### Mac users:
-Be sure you can open a terminal:
-https://www.youtube.com/watch?v=zw7Nd67\_aFw
+Be sure you can open a [terminal](https://www.youtube.com/watch?v=zw7Nd67_aFw)
