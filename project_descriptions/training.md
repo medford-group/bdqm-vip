@@ -4,7 +4,7 @@ This project covers basic training for 1) generating data using quantum-mechanic
 
 
 ## Midterm Goal:
-Compute the adsorption energy of carbon monoxide (CO) on a Pt(111) surface using DFT on the PACE computing cluster. You will use a plane-wave cutoff of 400 eV and a k-point mesh of (4,4,1) to compute the adsorption energy.
+Compute the adsorption energy of carbon monoxide (CO) on a Pt(111) surface using DFT on the PACE computing cluster. You will use plane-wave cutoffs of 300, 400, and 600 eV and a k-point mesh of (4,4,1) to compute the adsorption energy.
 
 ### Midterm Deliverables:
 * A text file containing the path to the directory of the DFT calculation on the PACE cluster and the computed adsorption energy.
