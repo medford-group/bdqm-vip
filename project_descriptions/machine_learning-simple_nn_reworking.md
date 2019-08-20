@@ -1,4 +1,5 @@
 # Machine Learning -  Simple\_NN Improvement
+Advisor: Ray Lei
 
 Simple\_NN is a python package out of South Korea for generating machine learned potential energy surfaces (known as neural network forcefields.) These are models that can be trained reproduce the results of DFT but at much lower cost. Currently we use Simple\_NN as a standard in our group. However, this package has some issues producing consistent results. We have a fork of the pakage and are looking to modify it and improve it for our own purposes.
 
@@ -13,7 +14,7 @@ https://github.com/medford-group/SIMPLE-NN
 
 
 ### Midterm Deliverables:
-A zip file containing you successful run and commits to the mefordgroup fork that make substative changes improving the code.
+A zip file containing your successful run and commits to the `medford-group` fork that make substative changes improving the code.
 
 
 ## Final Goal:
@@ -21,9 +22,8 @@ A zip file containing you successful run and commits to the mefordgroup fork tha
 * produce a set of recommened defaults to run the program at and commit them to the simple\_NN repo
 
 
-
 ### Final Deliverables:
-commits on the meford fork of Simple\_NN.
+Commits on the `medford-group` fork of Simple\_NN.
 
 ### Relevant Literature:
 https://onlinelibrary.wiley.com/doi/full/10.1002/qua.24890
