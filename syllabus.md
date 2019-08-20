@@ -1,7 +1,9 @@
-Instructor: A. J. Medford & Email: `andrew.medford@chbe.gatech.edu`\
-Office Hours: By Appointment & Class Hours: W 10:10-11:00am\
-Office Hours Location: ES&T L1222 & Class Room: ES&T L1125\
-&\
+Instructor: A. J. Medford
+Email: [ajm@gatech.edu](mailto:ajm@gatech.edu)
+Office Hours: By Appointment
+Class Hours: W 10:10-11:00am
+Office Hours Location: ES&T L1222
+Class Room: ES&T L1125
 
 Course Description
 ==================
@@ -132,11 +134,13 @@ outlined below. A total grade will be computed based on the weighted
 average of the 3 categories which will be converted to letter grades
 using the following:
 
--   A: $\geq$ 4
+-   A: > 4
 
--   B: $\geq$ 3
+-   B: > 3
 
--   C: $<$ 3
+-   C: < 3
+
+-   D: < 2
 
 You will receive a grade at the midterm and after the end of the course.
 The midterm grade is only advisory, and will not factor into the final
@@ -246,100 +250,41 @@ total) from your “Documentation” grade**. Please let an instructor know
 if nobody can make it, and work with other groups to find a time to make
 up the presentation.
 
-Schedule {#schedule .unnumbered}
+Schedule 
 ========
-
-#### -2exWeek 01, : {#exweek-01 .unnumbered}
-
-1=
 
 Introduction to VIP and projects (Medford)
 
-#### -2exWeek 02, : {#exweek-02 .unnumbered}
-
-1=
 
 Overview of literature searches (Medford)
 
-#### -2exWeek 03, : {#exweek-03 .unnumbered}
-
-1=
-
 Intro to Python (Lei)
-
-#### -2exWeek 04, : {#exweek-04 .unnumbered}
-
-1=
 
 Intro to ASE and adsorption energies (Comer)
 
-#### -2exWeek 05, : {#exweek-05 .unnumbered}
-
-1=
-
 Updates and workshop
-
-#### -2exWeek 06, : {#exweek-06 .unnumbered}
-
-1=
 
 PACE and Bash scripting (Lei)
 
-#### -2exWeek 07, : {#exweek-07 .unnumbered}
-
-1=
-
 Density functional theory calculations (Comer)
 
-#### -2exWeek 08, : {#exweek-08 .unnumbered}
-
-1=
-
 Updates and workshop
 
-#### -2exWeek 09, : {#exweek-09 .unnumbered}
-
-1=
-
 Updates and workshop
-
-#### -2exWeek 10, : {#exweek-10 .unnumbered}
-
-1=
 
 Atomistic machine learning: theory (Lei)
 
-#### -2exWeek 11, : {#exweek-11 .unnumbered}
-
-1=
-
 Atomistic machine learning: application (Comer)
 
-#### -2exWeek 12, : {#exweek-12 .unnumbered}
-
-1=
+Updates and workshop
 
 Updates and workshop
 
-#### -2exWeek 13, : {#exweek-13 .unnumbered}
-
-1=
-
 Updates and workshop
-
-#### -2exWeek 14, : {#exweek-14 .unnumbered}
-
-1=
-
-Updates and workshop
-
-#### -2exWeek 15, : {#exweek-15 .unnumbered}
-
-1=
 
 Thanksgiving Break
 
-Changes to Syllabus {#changes-to-syllabus .unnumbered}
+Changes to Syllabus
 ===================
 
 The schedule and syllabus are subject to change. Given that this is a
