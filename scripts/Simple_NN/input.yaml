@@ -1,0 +1,22 @@
+generate_features: true
+preprocess: true
+train_model: true
+atom_types:
+ - H
+ - O
+
+symmetry_function:
+  params:
+    H: params_H
+    O: params_O
+       
+neural_network:
+  use_force: true
+  method: Adam
+  force_coeff: 1
+  nodes: 100-50-24-24
+  full_batch: false
+  activation_function: tanh
+  batch_size: 100
+  total_epoch: 200000
+  learning_rate: 0.01
