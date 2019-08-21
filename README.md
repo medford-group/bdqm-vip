@@ -1,20 +1,5 @@
-# Big Data in Quantum Mechanics
+# Big Data and Quantum Mechanics
 
-## Preparing For Class:
-Please do the following before lectures begin:
+This is the Github repository for course materials pertaining to the "Big Data and Quantum Mechanics" (BDQM) section of the "Vertically Integrated Projects" (VIP) course. Details on course structure and grading are available in the syllabus, and lectures, project descriptions, and other scripts are also available.
 
-### Install Anaconda3
-
-We'll be using Python3 and Jupyter notebooks extenstively in this class. To access this easily, we'll need to install anaconda3. To do that, go to the anaconda website below and simply follow the buttons to download and install it (ensure that you're downloading the correct version for your operating system.)
-
-https://www.anaconda.com/distribution/
-
-### Ensure you can access a linux/unix prompt
-
-#### Windows users:
-Please install the windows ubuntu subsystem using these instructions:
-
-https://docs.microsoft.com/en-us/windows/wsl/install-win10
-
-#### Mac users:
-Be sure you can open a [terminal](https://www.youtube.com/watch?v=zw7Nd67_aFw)
+All assignments should be submitted via Canvas, and all students should join the Slack channel for efficient communication.
