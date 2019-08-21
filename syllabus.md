@@ -231,7 +231,14 @@ Teamwork and Interaction
 ------------------------
 
 Teamwork and interaction will be graded based on peer evaluations
-conducted through the VIP website.
+conducted through the VIP website and your participation in peer grading.
+Failure to complete peer grading or peer evals will result in 1 (out of 5) 
+points deducted from the Teamwork and Interaction grade. If you do not
+complete either then you will lose 2 (out of 5) points.
+
+Note that you **only need to complete peer evals for your sub-team members**,
+but peer grading will be across different subteams and will be explicitly
+assigned.
 
 Meeting Format
 --------------
