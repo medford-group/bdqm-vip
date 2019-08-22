@@ -6,6 +6,10 @@ Prior work in the group has achieved neural network force fields with an accurac
 
 the data is located in the `data` folder in the top level of this github repository named `iron_data.traj` and `iron_validation.traj`
 
+There are many options for software to train these neural networks. The two best packages I am aware of are [Simple\_NN](https://github.com/medford-group/SIMPLE-NN.git) and [Schnetpack](https://github.com/atomistic-machine-learning/schnetpack). These are both academic software packages, and as such are hard to use. However, an example directory for running each can be found in the `scripts` folder in this repository.
+
+A paper by Behler explaining how this style of neural network force field works is below in the "Relevant Literature" section
+
 ## Midterm goal:
 
 By the midterm you should be able to generate a neural network model with accuracy comparable to the accuracy already achieved in the group (see above).
@@ -21,3 +25,7 @@ By the final you should have a neural network model and/or training strategy tha
 ### Final deliverables:
 
 A zip file with all model details as described in the midterm deliverable, along with a report explaining your strategy and the reasoning behind the improved performance.
+
+## Relevant Literature
+https://onlinelibrary.wiley.com/doi/full/10.1002/qua.24890 https://www.sciencedirect.com/science/article/pii/S0010465519301298
+
