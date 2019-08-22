@@ -1,4 +1,4 @@
-# Machine Learning - Neural network force-field training for ???
+# Machine Learning - Neural network force-field training for water molecules
 
 In this project you will work with a dataset of water molecules in a constant temperature molecular dynamics simulation. You will be provided with a dataset of 842 images that can be used for training the model, and an additional 200 images for validating the performance.
 
