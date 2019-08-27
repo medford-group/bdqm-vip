@@ -1,0 +1,27 @@
+Name: <First Last>
+
+Paper: <Use https://search.crossref.org to find the paper, and cite it by selecting "Actions", then "Cite". Choose the APA style format, and be sure the DOI or URL is included>
+
+Skimming Questions:
+
+1) Summarize the overall goal of the work.
+
+<1-3 sentence answer>
+
+2) What figure is most interesting or relevant? What is the main thing you learned from it?
+
+<1-3 sentence answer>
+
+Reading Questions:
+
+3) What is the strongest point of the paper?
+
+<1-3 sentence answer>
+
+4) What is the weakest point of the paper?
+
+<1-3 sentence answer>
+
+5) How does the paper relate to your research project?
+
+<1-3 sentence answer>
