@@ -1,0 +1,11 @@
+name: bdqm-vip
+channels:
+  - conda-forge
+
+dependencies:
+  - python=3.6
+  - matplotlib
+  - pandas
+  - numpy
+  - scipy
+  - ase
