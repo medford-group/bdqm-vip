@@ -4,13 +4,13 @@ We'll be using Python3 and Jupyter notebooks extenstively in this class. To acce
 
 https://www.anaconda.com/distribution/
 
-#### install ase and nglviewer
+#### install ase and nglview
 
 these programs can be accessed from pip:
 
 ```
 pip install ase
-pip install nglviewer
+pip install nglview
 ```
 
 ### Ensure you can access a linux/unix prompt
