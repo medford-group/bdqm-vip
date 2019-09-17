@@ -52,9 +52,37 @@ Linux is an open source operating system developed by [Linus Torvalds](https://e
 * `cd ..`
 
 #### Quick Problem
-![alt text](![alt text](https://swcarpentry.github.io/shell-novice/fig/home-directories.svg "Linux Home Directory Structure") "File Problem")
+![alt text](https://swcarpentry.github.io/shell-novice/fig/filesystem-challenge.svg "File Problem")
 
 if `pwd` shows `/Users/thing` what will `ls -F ../backup` display
 
 
 #### Making Files and Directories
+* `mkdir` makes directories
+* `mkdir thesis`
+* `cd data`
+* `nano draft.txt`
+* write something
+* `ctrl + X` saves and quits
+* `^` is `ctrl`
+* editing files in terminal is important for research
+* Questions
+
+
+#### Removing Files
+* be extremely careful
+* no recycle bin in linux
+* `rm [filename]`
+* `rm -r` for folders
+
+#### Running Code
+* for our purposes we'll use `python [program name]`
+* make a python script
+* run script
+
+### Using ssh To Get Onto The Supercomputer
+* ssh is a secure remote linux terminal
+* can be done through other programs on windows like [Putty](https://www.chiark.greenend.org.uk/~sgtatham/putty/)
+* `ssh -X [username]@coc-ice.pace.gatech.edu`
+* `-X` allows visual data to be sent to your computer
+
