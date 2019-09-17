@@ -1,6 +1,6 @@
 # Introduction To Liunx
 
-Linux is an open source operating system developed by [Linus Torvalds](https://en.wikipedia.org/wiki/Linus_Torvalds). Linux is based on [Unix](https://en.wikipedia.org/wiki/Unix), and therefore shares much of its functionality with other unix based operating systems (such as MacOS.) Linux is the most commnly used operating system in computational research groups and runs much of the internet.
+[Linux](https://github.com/torvalds/linux) is an open source operating system developed by [Linus Torvalds](https://en.wikipedia.org/wiki/Linus_Torvalds). Linux is based on [Unix](https://en.wikipedia.org/wiki/Unix), and therefore shares much of its functionality with other unix based operating systems (such as MacOS.) Linux is the most commnly used operating system in computational research groups and runs much of the internet.
 
 ## The Linux Terminal
 
@@ -85,4 +85,11 @@ if `pwd` shows `/Users/thing` what will `ls -F ../backup` display
 * can be done through other programs on windows like [Putty](https://www.chiark.greenend.org.uk/~sgtatham/putty/)
 * `ssh -X [username]@coc-ice.pace.gatech.edu`
 * `-X` allows visual data to be sent to your computer
+
+## Linux Cluster Supercomputers
+* pace is a [Linux cluster supercomputer](https://en.wikipedia.org/wiki/Computer_cluster)
+* it is several computers all running linux connected together
+* supercomputers are not one big fast computer, it is many reasonably fast computers connected together
+* you could even [build your own](http://likemagicappears.com/projects/raspberry-pi-cluster/)
+![alt text](https://ucdavis-bioinformatics-training.github.io/2017-June-RNA-Seq-Workshop/monday/cluster_diagram.png "Cluster Supercomputer Structure")
 
