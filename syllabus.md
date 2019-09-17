@@ -274,11 +274,11 @@ Intro to Python (Lei)
 
 Intro to ASE and adsorption energies (Comer)
 
-Updates and workshop
-
 PACE and Bash scripting (Lei)
 
 Density functional theory calculations (Comer)
+
+Updates and workshop
 
 Updates and workshop
 
