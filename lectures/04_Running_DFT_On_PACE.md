@@ -171,3 +171,8 @@ now let's submit it. With luck it will run and we can view the result
 
 You will need to calculate the adsorption energy of CO on Pt(111) at several different values of `h` at kpoints of 4x4x1. The details are in the project description. Please let us know if you have questions.
 
+
+## But What is SPARC-X Actually Doing?
+
+In a broad sense, SPARC-X is solving the schrodinger equation very approximately. It is doing this through an iterative calculation. You begin with some initial guess of the electron density, then refine that by minimizing the energy. Once you've hit some convergence criteria, you terminate this, then you can calculate the energy and forces.
+
