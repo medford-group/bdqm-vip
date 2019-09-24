@@ -99,14 +99,14 @@ Let's start by making a new directory:
 
 ```
 cd ../
-mkdir sparc\_run
-cd sparc\_run
+mkdir sparc_run
+cd sparc_run
 ```
 
 We'll also need to load in SPARC and the accompanying software. To do that we're going to source an environmnet I made just for this.
 
 ```
-source /gpfs/pace1/project/chbe-medford/medford-share/envs/vip/sparc\_env.sh
+source /gpfs/pace1/project/chbe-medford/medford-share/envs/vip/sparc_env.sh
 ```
 
 What is this doing? It is adding things to your `$PATH` and `$PYTHONPATH`. Linux looks for commands and programs to run by checking through the variable `$PATH` to find the program/command you've asked for. This is not critical to understand, but I mention it so this doesn't seem like magic.
@@ -154,15 +154,15 @@ Let's make a fresh folder:
 
 ```
 cd ../
-mkdir PBS\_sparc\_run
-cd PBS\_sparc\_run
+mkdir PBS_sparc_run
+cd PBS_sparc_run
 ```
 
 Let's copy in our sparc python script and PBS batch file. We need to modify the PBS file to source our environment and run the script. So remove `echo "hello world"` and put in:
 
 ```
-source /gpfs/pace1/project/chbe-medford/medford-share/envs/vip/sparc\_env.sh
-python calc\_sparc.py
+source /gpfs/pace1/project/chbe-medford/medford-share/envs/vip/sparc_env.sh
+python calc_sparc.py
 ```
 
 now let's submit it.
