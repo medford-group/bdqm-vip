@@ -165,4 +165,9 @@ source /gpfs/pace1/project/chbe-medford/medford-share/envs/vip/sparc_env.sh
 python calc_sparc.py
 ```
 
-now let's submit it.
+now let's submit it. With luck it will run and we can view the result
+
+## Doing The Training Project
+
+You will need to calculate the adsorption energy of CO on Pt(111) at several different values of `h` at kpoints of 4x4x1. The details are in the project description. Please let us know if you have questions.
+
