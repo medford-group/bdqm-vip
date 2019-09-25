@@ -106,7 +106,7 @@ cd sparc_run
 We'll also need to load in SPARC and the accompanying software. To do that we're going to source an environmnet I made just for this.
 
 ```
-source /gpfs/pace1/project/chbe-medford/medford-share/envs/vip/sparc_env.sh
+source /nv/pace-ice/bcomer3/sparc_env.sh
 ```
 
 What is this doing? It is adding things to your `$PATH` and `$PYTHONPATH`. Linux looks for commands and programs to run by checking through the variable `$PATH` to find the program/command you've asked for. This is not critical to understand, but I mention it so this doesn't seem like magic.
