@@ -1,7 +1,11 @@
 Instructor: A. J. Medford
+
 Email: [ajm@gatech.edu](mailto:ajm@gatech.edu)
+
 Office Hours: By Appointment
+
 Class Hours: W 10:10-11:00am
+
 Office Hours Location: ES&T L1222
 
 Class Room: ES&T L1118
