@@ -15,7 +15,7 @@ https://wiki.fysik.dtu.dk/ase/ase/build/build.html?
 
 
 ### Midterm Deliverables:
-* A text file containing the path to the directory of the DFT calculation on the PACE cluster and the computed adsorption energy.
+* A text file containing the computed adsorption energies and the path to the directory of the DFT calculation on the PACE cluster (be sure to change permissions) and/or a .zip file containing all relevant inputs and outputs for the calculatoin.
 
 ## Final Goal:
 Train a neural-network model to predict the energies and forces of ???

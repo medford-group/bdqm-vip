@@ -1,7 +1,11 @@
 Instructor: A. J. Medford
+
 Email: [ajm@gatech.edu](mailto:ajm@gatech.edu)
+
 Office Hours: By Appointment
+
 Class Hours: W 10:10-11:00am
+
 Office Hours Location: ES&T L1222
 
 Class Room: ES&T L1118
@@ -265,34 +269,34 @@ up the presentation.
 Schedule 
 ========
 
-Introduction to VIP and projects (Medford)
+Week 1: Introduction to VIP and projects (Medford)
 
 
-Overview of literature searches (Medford)
+Week 2: Overview of literature searches (Medford)
 
-Intro to Python (Lei)
+Week 3: Intro to Python (Lei)
 
-Intro to ASE and adsorption energies (Comer)
+Week 4: Intro to ASE and adsorption energies (Comer)
 
-PACE and Bash scripting (Lei)
+Week 5: PACE and Bash scripting (Lei)
 
-Density functional theory calculations (Comer)
+Week 6: Density functional theory calculations (Comer)
 
-Updates and workshop
+Week 7: Updates and workshop
 
-Updates and workshop
+Week 8: Updates and workshop
 
-Updates and workshop
+Week 9: Updates and workshop
 
-Atomistic machine learning: theory (Lei)
+Week 10: Atomistic machine learning: theory (Lei)
 
-Atomistic machine learning: application (Comer)
+Week 11: Atomistic machine learning: application (Comer)
 
-Updates and workshop
+Week 12: Updates and workshop
 
-Updates and workshop
+Week 13: Updates and workshop
 
-Updates and workshop
+Week 14: Updates and workshop
 
 Thanksgiving Break
 
