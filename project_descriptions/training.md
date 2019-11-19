@@ -18,7 +18,7 @@ https://wiki.fysik.dtu.dk/ase/ase/build/build.html?
 * A text file containing the computed adsorption energies and the path to the directory of the DFT calculation on the PACE cluster (be sure to change permissions) and/or a .zip file containing all relevant inputs and outputs for the calculatoin.
 
 ## Final Goal:
-Train a neural-network model to predict the energies and forces of ???
+Train a neural-network model to predict the energies and forces of 0.05 eV/A
 
 ### Final Deliverables:
 * A zip/tar archive containing your trained force field and the DFT calculations used to generate it.
