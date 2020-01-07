@@ -2,13 +2,13 @@ Instructor: A. J. Medford
 
 Email: [ajm@gatech.edu](mailto:ajm@gatech.edu)
 
-Office Hours: By Appointment
+Office Hours: [By Appointment](https://app.acuityscheduling.com/schedule.php?owner=18040156&appointmentType=11047919}{By Appointment)
 
 Class Hours: W 10:10-11:00am
 
 Office Hours Location: ES&T L1222
 
-Class Room: ES&T L1118
+Class Room: MoSE 1201A
 
 Course Description
 ==================
@@ -271,7 +271,6 @@ Schedule
 
 Week 1: Introduction to VIP and projects (Medford)
 
-
 Week 2: Overview of literature searches (Medford)
 
 Week 3: Intro to Python (Lei)
@@ -298,7 +297,6 @@ Week 13: Updates and workshop
 
 Week 14: Updates and workshop
 
-Thanksgiving Break
 
 Changes to Syllabus
 ===================
