@@ -128,11 +128,11 @@ Course Structure
 
 The grade will be assigned based on three categories:
 
--   Documentation: 33.$\bar{3}$%
+-   Documentation: 33.3 %
 
--   Personal Accomplishments: 33.$\bar{3}$ %
+-   Personal Accomplishments: 33.4 %
 
--   Teamwork and Interactions: 33.$\bar{3}$ %
+-   Teamwork and Interactions: 33.3 %
 
 A grade of 0-5 will be assigned for each category based on the criteria
 outlined below. A total grade will be computed based on the weighted
