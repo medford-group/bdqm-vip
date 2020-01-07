@@ -2,7 +2,7 @@ Instructor: A. J. Medford
 
 Email: [ajm@gatech.edu](mailto:ajm@gatech.edu)
 
-Office Hours: [By Appointment](https://app.acuityscheduling.com/schedule.php?owner=18040156&appointmentType=11047919}{By Appointment)
+Office Hours: [By Appointment](https://app.acuityscheduling.com/schedule.php?owner=18040156&appointmentType=11047919)
 
 Class Hours: W 10:10-11:00am
 
