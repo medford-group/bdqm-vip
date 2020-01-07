@@ -7,4 +7,3 @@ This is the Github repository for course materials pertaining to the "Big Data a
 All assignments should be submitted via Canvas, and all students should join the Slack channel for efficient communication.
 
 
-https://www.youtube.com/watch?v=aircAruvnKk&list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi
