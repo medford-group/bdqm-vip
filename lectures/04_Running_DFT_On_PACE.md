@@ -7,7 +7,7 @@ Today we're going to go over how to run DFT calculations on the PACE supercomput
 Let's start by logging into the pace-ice cluster.
 
 ```
-ssh -X [username]@coc-ice.pace.gatech.edu
+ssh -X [username]@ice.pace.gatech.edu
 ```
 
 enter your password
@@ -22,13 +22,13 @@ The PBS Queue system is a program that monitors user requests for computing time
 In a supercomputing cluster, there are subsets of compute nodes known as "queues." These are a set ofnodes that all accept jobs from the same line or "queue" of jobs. We have access to the `coc-ice` queue. To view what is in that queue we will run:
 
 ```
-qstat coc-ice
+qstat ice
 ```
 
 This shows all the jobs in that queue at the moment. We can check the overall status of this queue with:
 
 ```
-pace-check-queue coc-ice
+pace-check-queue ice
 ```
 
 Each line is a compute node (a rack computer sitting somewhere on campus.) The hostname is the internal address of this node, the tasks/np is how many of it's cores are being used, ect...
@@ -47,7 +47,7 @@ We need a script file to submit a job, this needs to have a particular form base
 #!/bin/bash
 #PBS -l nodes=1:ppn=1
 #PBS -l walltime=0:02:00
-#PBS -q coc-ice
+#PBS -q ice
 #PBS -N hello_world_job
 #PBS -o stdout
 #PBS -e stderr
@@ -161,7 +161,7 @@ cd PBS_sparc_run
 Let's copy in our sparc python script and PBS batch file. We need to modify the PBS file to source our environment and run the script. So remove `echo "hello world"` and put in:
 
 ```
-source /gpfs/pace1/project/chbe-medford/medford-share/envs/vip/sparc_env.sh
+source /nv/pace-ice/bcomer3/sparc_env.sh
 python calc_sparc.py
 ```
 
