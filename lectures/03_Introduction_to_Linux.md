@@ -83,7 +83,7 @@ if `pwd` shows `/Users/thing` what will `ls -F ../backup` display
 ### Using ssh To Get Onto The Supercomputer
 * ssh is a secure remote linux terminal
 * can be done through other programs on windows like [Putty](https://www.chiark.greenend.org.uk/~sgtatham/putty/)
-* `ssh -X [username]@coc-ice.pace.gatech.edu`
+* `ssh -X [username]@pace-ice.pace.gatech.edu`
 * `-X` allows visual data to be sent to your computer
 
 ## Linux Cluster Supercomputers
