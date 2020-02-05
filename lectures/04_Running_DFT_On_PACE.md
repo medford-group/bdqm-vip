@@ -7,7 +7,7 @@ Today we're going to go over how to run DFT calculations on the PACE supercomput
 Let's start by logging into the pace-ice cluster.
 
 ```
-ssh -X [username]@ice.pace.gatech.edu
+ssh -X [username]@pace-ice.pace.gatech.edu
 ```
 
 enter your password
@@ -19,16 +19,16 @@ This section will discuss how to ask for computing resources from PACE. PACE usi
 The PBS Queue system is a program that monitors user requests for computing time and allocates computing time based on resources available, the size of the request, how much the user has asked for in the past, ect... There is a semi-sophisticated alogrithim that controls how the resources are allocated.
 
 ### Inspecting The Queue
-In a supercomputing cluster, there are subsets of compute nodes known as "queues." These are a set ofnodes that all accept jobs from the same line or "queue" of jobs. We have access to the `coc-ice` queue. To view what is in that queue we will run:
+In a supercomputing cluster, there are subsets of compute nodes known as "queues." These are a set ofnodes that all accept jobs from the same line or "queue" of jobs. We have access to the `pace-ice` queue. To view what is in that queue we will run:
 
 ```
-qstat ice
+qstat pace-ice
 ```
 
 This shows all the jobs in that queue at the moment. We can check the overall status of this queue with:
 
 ```
-pace-check-queue ice
+pace-check-queue pace-ice
 ```
 
 Each line is a compute node (a rack computer sitting somewhere on campus.) The hostname is the internal address of this node, the tasks/np is how many of it's cores are being used, ect...
@@ -47,7 +47,7 @@ We need a script file to submit a job, this needs to have a particular form base
 #!/bin/bash
 #PBS -l nodes=1:ppn=1
 #PBS -l walltime=0:02:00
-#PBS -q ice
+#PBS -q pace-ice
 #PBS -N hello_world_job
 #PBS -o stdout
 #PBS -e stderr
@@ -60,7 +60,7 @@ This particular script doesn't do much other than print "hello world" There are 
 
 The first is the `#!/bin/bash` this just tells th system that it is a bash script and to use the bash shell to run it.
 
-The next block is a set of comments all starting with `#PBS` These are a signal to the queue system to read inputs. The first two have a `-l` flag, this is a resource request. Here we are asking for 1 node with 1 core per node. Basically, a single processor. The second line is asking for 2 minutes of "walltime" which is just how long we want that one processor for. The next line with the `-q` flag is what queue we're asking for. Here we want to use the `coc-ice` queue. The `-N` line gives the job a name. Then the final two are telling the system where to direct the output and error messages to.
+The next block is a set of comments all starting with `#PBS` These are a signal to the queue system to read inputs. The first two have a `-l` flag, this is a resource request. Here we are asking for 1 node with 1 core per node. Basically, a single processor. The second line is asking for 2 minutes of "walltime" which is just how long we want that one processor for. The next line with the `-q` flag is what queue we're asking for. Here we want to use the `pace-ice` queue. The `-N` line gives the job a name. Then the final two are telling the system where to direct the output and error messages to.
 
 Let's run this one. first we want to make a new directory (_never run jobs in your home directory, it confuses the queuing system_.) 
 
