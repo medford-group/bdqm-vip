@@ -169,7 +169,7 @@ now let's submit it. With luck it will run and we can view the result
 
 ## Doing The Training Project
 
-You will need to calculate the adsorption energy of CO on Pt(111) at several different values of `h` at kpoints of 4x4x1. The details are in the project description. Please let us know if you have questions.
+You will need to calculate the reaction energy of oxygen and hydrogen converting to water at different values of `h`. The details are in the project description. Please let us know if you have questions.
 
 
 ## But What is SPARC-X Actually Doing?
