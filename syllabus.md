@@ -281,11 +281,11 @@ Week 5: PACE and Bash scripting (Lei)
 
 Week 6: Density functional theory calculations (Comer)
 
-Week 7: Updates and workshop
+Week 7: Wprkshop
 
-Week 8: Updates and workshop
+Week 8: Midterm Updates: Training Groups
 
-Week 9: Updates and workshop
+Week 9: Midterm Updates: Machine Learning Groups
 
 Week 10: Atomistic machine learning: theory (Lei)
 
@@ -293,9 +293,9 @@ Week 11: Atomistic machine learning: application (Comer)
 
 Week 12: Updates and workshop
 
-Week 13: Updates and workshop
+Week 13: Final Updates: Traning Groups
 
-Week 14: Updates and workshop
+Week 14: Final Updates: Machine Learning Groups
 
 
 Changes to Syllabus
