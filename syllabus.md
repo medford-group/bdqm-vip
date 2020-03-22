@@ -285,17 +285,17 @@ Week 7: Workshop
 
 Week 8: Midterm Updates: Training Groups
 
-Week 9: Midterm Updates: Machine Learning Groups
+Week 9: Atomistic machine learning: theory (Lei)
 
-Week 10: Atomistic machine learning: theory (Lei)
+Week 10: Atomistic machine learning: application (Comer)
 
-Week 11: Atomistic machine learning: application (Comer)
+Week 11: Optional workshop (no official classes due to COVID)
 
-Week 12: Workshop
+Week 12: Update presentation: Machine Learning Groups (remote)
 
-Week 13: Final Updates: Traning Groups
+Week 13: Final Updates: Traning Groups (remote)
 
-Week 14: Final Updates: Machine Learning Groups
+Week 14: Final Updates: Machine Learning Groups (remote)
 
 
 Changes to Syllabus
