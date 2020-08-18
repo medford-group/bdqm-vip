@@ -4,11 +4,11 @@ Email: [ajm@gatech.edu](mailto:ajm@gatech.edu)
 
 Office Hours: [By Appointment](https://app.acuityscheduling.com/schedule.php?owner=18040156&appointmentType=11047919)
 
-Class Hours: W 10:10-11:00am
+Class Hours: W 9:30-10:20am
 
-Office Hours Location: ES&T L1222
+Office Hours Location: [BlueJeans Office](https://bluejeans.com/4985363696)
 
-Class Room: MoSE 1201A
+Class Room: [BlueJeans](https://bluejeans.com/150999360)
 
 Course Description
 ==================
@@ -53,7 +53,7 @@ application domain of surface science and catalysis. The team merges
 expertise from computational and physical sciences, and students from
 computer science, electrical engineering, industrial & systems
 engineering, chemical engineering, chemistry, physics, and materials
-science. The VIP course consists of 3 classes of sub-team projects:
+science. The VIP course consists of 4 classes of sub-team projects:
 
 -   Training: All new students must complete a “training” project that
     involves the calculation of an adsorption energy using the
@@ -87,9 +87,14 @@ science. The VIP course consists of 3 classes of sub-team projects:
     of the neural network remains challenging. These projects will work
     with specific datasets and students will try to improve the
     performance of the machine-learning model by
-    varying hyper-parameters. Students may also explore new
-    machine-learning algorithms and/or improve the codes and
-    infrastructure used for neural network training.
+    varying hyper-parameters. 
+
+-   Software Infrastructure: These projects will focus on specific aspects
+    of computational tools used or developed by graduate students and 
+    advance these tools by implementing new methods, adding documentation,
+    or creating new example use cases. Some software tools developed by the
+    group or our collaborators include the [ElectroLens](https://medford-group.github.io/ElectroLens/) visualization tool,
+    the [SPARC DFT code](https://www.sparc-x.com/), and the [AMPTorch](https://github.com/ulissigroup/amptorch) code for atomistic machine learning.
 
 Course Logistics
 ================
@@ -154,29 +159,39 @@ calculation.
 Documentation
 -------------
 
-The documentation grade will be assessed based on the VIP notebook and
-additional documentation in the Github repository. **All external
-documentation should be referenced in the VIP notebook.** Please clearly
-mark any external sources by boxing them and highlighting, and/or
-placing them on a separate page. If you prefer to use an electronic
-notebook or digital tool for documentation it must be approved
-beforehand. There is a notebook grading rubric available on the course
-Canvas site that will be used to grade the notebooks. The notebook will
-account for a total of 3/5 points toward your documentation grade.
+The documentation grade will be assessed based on bi-weekly updates submitted via Canvas.
+The weekly update should include the following components:
 
-The documentation grade will also include contributions from two
-additional sources: the in-class updates and a literature review
-assignment. The slides from all in-class updates should be uploaded at
-the midterm and final. The literature review will be submitted to
-Canvas. The in-class updates and literature review will be worth 1 point
-each, and account for a significant portion of your final grade, so you
-should be diligent about ensuring they are submitted on time.
+- Tasks completed in the prior week
+- Discussion of any key challenges or results
+- Tasks to be completed in future weeks
+- Documentation needed to repeat analysis and access results
+- A formal citation of one source (peer-reviewed or permanently archived) that was useful during that week.
+
+
+Documentation for the bi-weekly updates should be provided as a text file or Word document.
+Bi-weekly updates will be peer graded on a scale of 0-5 based on the following criteria (decimal scores are allowed):
+
+-   5: Remarkable progress on tasks, clear description of process and findings, a well-defined plan for the next weeks, and relevant citations (A+)
+
+-   4: Average progress on tasks, some documentation of results/challenges, a reasonable plan for the coming weeks, and relevant citation (A)
+Goals are completely achieved (A)
+
+-   3: Some progress on tasks, but documentation and/or plan is lacking detail. A citation is provided, but lacks relevance or appears to be re-used (B)
+
+-   2: Very little progress on tasks, documentation and/or plan is omitted or incomplete. Citation lacks relevance or is omitted (C)
+
+-   1: Clear lack of effort in completing tasks, documentation and plan are omitted or irrelevant. Citation not provided (D)
+
+-   0: No submission
+
+Bi-weekly updates should be compiled into a single document and submitted at the midterm and final. Instructors will review the average score from bi-weekly updates and compare this to the compiled updates to ensure that the peer grading is appropriate, and to ensure that citations are not recycled. Instructors reserve the right to revise the average score up or down if substantial inconsistencies between the score and the criteria above are observed.
 
 Personal Accomplishments
 ------------------------
 
 Personal accomplishments will be measured by self-defined goals and a
-combination of instructor and peer evaluation. Within the **first week**
+combination of instructor and peer evaluation. Within the **first two weeks**
 of the semester students returning to projects will define midterm and
 semester goals for their project. Each goal should have a deliverable
 that can be unambiguously evaluated as complete or incomplete (computer
@@ -197,10 +212,10 @@ goal.
 
 -   1: No substantial progress is made towards goals (D)
 
-The accomplishments will be graded by your peers, and confirmed by the
+Similar to documentation, the accomplishments will be graded by your peers, and confirmed by the
 instructor. Importantly, the midterm assessment is only advisory, and
-students have an opportunity to **revise goals within 1 week of
-receiving the midterm assessment** (revisions must also be approved).
+students have an opportunity to **revise goals within 2 weeks of
+receiving the midterm assessment**.
 The final grade will depend only on the revised goals. This means that
 the grade is controlled by two factors: i) ability to plan research and
 set realistic targets and ii) ability to achieve goals and deliver on a
@@ -221,10 +236,12 @@ grasp of the long-term goals and scope of the project.
 The accomplishments will be initially graded by multiple peers and
 confirmed by the instructor. The deliverables will be submitted via
 Canvas as a .zip file, and a copy of the project goals document should
-be included with the submission to aid the reviewers. If a template is
-provided this should be strictly followed to aid in analysis of results.
+be included with the submission to aid the reviewers. 
+**All submissions should contain a file named "README"** that explains the
+accomplishments in the context of the project goals and points the reviewer
+to necessary information.
 Any external deliverables (e.g. websites, Github, etc.) should be
-clearly referenced. This can also contain any comments, instructions, or
+clearly referenced. The README can also contain any comments, instructions, or
 context that may be important for a grader. When grading other students’
 assignments you should use the above 1-5 scale and criteria as a
 guideline. Only materials included in or referenced in the submission
@@ -236,18 +253,16 @@ Teamwork and Interaction
 ------------------------
 
 Teamwork and interaction will be graded based on peer evaluations
-
-conducted through the VIP website.
-
 conducted through the VIP website and your participation in peer grading.
-Failure to complete peer grading or peer evals will result in 1 (out of 5) 
-points deducted from the Teamwork and Interaction grade. If you do not
-complete either then you will lose 2 (out of 5) points.
-
-Note that you **only need to complete peer evals for your sub-team members**,
-but peer grading will be across different subteams and will be explicitly
+Note that this can be confusing. **Peer evaluations** occur twice per
+semester through the VIP website, while **peer grading** occurs bi-weekly for
+documentation and twice per semester for personal achievements.
+The **response rate for peer grading and peer evaluations will account 
+for 40% of the teamwork and interaction grade.**, while the scores you receive
+from your teammates in the peer evaluation will account for the other 60% of
+this grade. Note that you **only need to complete peer evals for your sub-team members**,
+but **peer grading will be across different subteams** and will be explicitly
 assigned.
-
 
 Meeting Format
 --------------
@@ -273,30 +288,29 @@ Week 1: Introduction to VIP and projects (Medford)
 
 Week 2: Overview of literature searches (Medford)
 
-Week 3: Intro to Python (Lei)
+Week 3: Intro to Python (Sahoo)
 
-Week 4: Intro to ASE and adsorption energies (Comer)
+Week 4: Intro to ASE and adsorption energies (Sahoo)
 
-Week 5: PACE and Bash scripting (Lei)
+Week 5: PACE and Bash scripting (Sahoo)
 
-Week 6: Density functional theory calculations (Comer)
+Week 6: Density functional theory calculations (Sahoo)
 
-Week 7: Workshop
+Week 7: Midterm Updates
 
-Week 8: Midterm Updates: Training Groups
+Week 8: Midterm Updates
 
-Week 9: Atomistic machine learning: theory (Lei)
+Week 9: Atomistic machine learning: theory (Sahoo)
 
-Week 10: Atomistic machine learning: application (Comer)
+Week 10: Atomistic machine learning: application (Sahoo)
 
-Week 11: Optional workshop (no official classes due to COVID)
+Week 11: Workshop
 
-Week 12: Update presentation: Machine Learning Groups (remote)
+Week 12: Workshop
 
-Week 13: Final Updates: Traning Groups (remote)
+Week 13: Final Updates
 
-Week 14: Final Updates: Machine Learning Groups (remote)
-
+Week 14: Final Updates
 
 Changes to Syllabus
 ===================
