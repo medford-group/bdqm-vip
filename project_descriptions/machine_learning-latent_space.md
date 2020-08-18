@@ -1,5 +1,5 @@
 # Machine Learning - Latent Spaces for Iron/Water Interfaces
-Advisor: AJ Medford
+Advisor: Ray Lei
 
 In this project you will work with a dataset of water molecules interacting with an iron surface in a constant temperature molecular dynamics simulation.  The dataset contains 1042 images and energies. Your goal is to use machine-learning techniques to create and analyze various latent-space representations of these structures.
 
