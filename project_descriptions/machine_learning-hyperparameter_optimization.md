@@ -1,33 +1,42 @@
-# Machine Learning - Hyperparameter optimization
-Advisor: Nicole Hu
+# Hyperparameter Optimization for AMPTorch
 
-In this project you will work with a dataset of water molecules interacting with an iron surface in a constant temperature molecular dynamics simulation.  You will be provided with a dataset of 842 images that can be used for training the model, and an additional 200 images for validating the performance.
+Contact: Nicole Hu
 
-Prior work in the group has achieved neural network force fields with an accuracy of 4 meV/atom (energy) and 0.23 eV/A (forces) for the dataset provided. Your goal in this project is to improve this result by modifying the neural network architecture (number of layers/nodes, activiation function, etc.) and/or initialization and training procedure. It is recommended that you utilize the Simple-NN package, but you may also use any other software package, or implement/modify algorithms as needed.
+Date: 08/28/2020
 
-the data is located in the `data` folder in the top level of this github repository named `iron_data.traj` and `iron_validation.traj`
+## _Background:_
 
-There are many options for software to train these neural networks. Some commonly-used options are [Simple\_NN](https://github.com/medford-group/SIMPLE-NN.git) and [Schnetpack](https://github.com/atomistic-machine-learning/schnetpack). These are both academic software packages, and as such are hard to use. However, an example directory for running each can be found in the `scripts` folder in this repository. Our group is also working to develop a new PyTorch-based version of the AMP software package. An alpha version is available [via Github](https://github.com/ulissigroup/amptorch). You may wish to try this as well.
+Our group is working to develop a new PyTorch-based version of AMP software[[1]](https://www.sciencedirect.com/science/article/pii/S0010465516301266). An Alpha version of AMPTorch is available via [Github](https://github.com/ulissigroup/amptorch). The trained neural network potential takes atomic positions as input, and output the predicted potential energy. This will be the default toolkit for this project. 
 
-A paper by Behler explaining how this style of neural network force field works is below in the "Relevant Literature" section
+A paper that elaborates the theories and strategies to construct a neural network potential to simulate atomistic environment and to predict the potential energy is given in ref [[2]](https://onlinelibrary.wiley.com/doi/full/10.1002/qua.24890). 
 
-## Midterm goal:
+The dataset to train the neural network potential with AMPTorch package is listed under directory `/data`. It contains `ase` Trajectory files of water molecules interacting with an iron surface from molecular dynamics simulations.  
 
-By the midterm you should be able to generate a neural network model with accuracy comparable to the accuracy already achieved in the group (see above).
 
-### Midterm deliverables:
 
-A zip file with the results including a log file with the RMSE values and input files.
+## _Project Description:_
 
-## Final goal:
+1. _Project 1_ will focus on improving training accuracy by developing a pipeline to tune the hyperparameters of descriptor generation (e.g. parameters in G's that defines the symmetry function) and neural network architecture (e.g. number of nodes, layers, activation functions, etc.). Dataset for this project will involve 360 images of training data, and 41 images of testing dataset that'd be kept outside of training and be used to analyze the accuracy of the NN model. Previous training of a NN potential on this dataset gives an error of ~35 meV per atom energy. 
+    * Dataset: `data/amptorch_data/Project_1/*`
 
-By the final you should have a neural network model and/or training strategy that has an improved accuracy for both energies and forces.
+2. _Project 2_ will focus on profiling AMPTorch, identifying and improving its bottlenecks to ensure the scalability and speed when challenged with a large dataset. The investigator will be provided with a dataset of ~16,000 frames each containing 35-164 atoms. 
+    * Dataset: `data/amptorch_data/Project_2/*`
 
-### Final deliverables:
+## _Midterm Goal:_
+1. _Project 1:_ By the midterm you should be able to generate a neural network model with accuracy comparable to the accuracy already achieved in the group (see above).
+    * **Midterm deliverables:** A zip file with the results including a log file with the RMSE values and input files.
+2. _Project 2:_ The progess of this project will be assessed more openly with discussion of Prof. Medford and Nicole. Performance analysis with different implementations of a specific feature of AMPTorch that allows for better performance/stability would be acceptable. 
 
-A zip file with all model details as described in the midterm deliverable, along with a report explaining your strategy and the reasoning behind the improved performance.
+## _Final Goal:_
+1. _Project 1:_ By the final you should have a neural network model and/or training strategy that has an improved accuracy for energies. 
+    * **Final deliverables:** A zip file with all model details as described in the midterm deliverable, along with a report explaining your strategy and the reasoning behind the improved performance.
 
-## Relevant Literature
-https://onlinelibrary.wiley.com/doi/full/10.1002/qua.24890 https://www.sciencedirect.com/science/article/pii/S0010465519301298
+2. _Project 2:_ By the final you should have a feature of AMPTorch that outperforms the orignal package in speed, scalability on the given dataset. 
+    * **Final deliverables:** An implemented feature or improvement integrated into AMPTorch.  
 
-https://www.sciencedirect.com/science/article/pii/S0927025617307206
+## _Reference_
+
+[1] Alireza Khorshidi, Andrew A.Peterson. [Amp: A modular approach to machine learning in atomistic simulations.](https://www.sciencedirect.com/science/article/pii/S0010465516301266)
+
+[2] Jörg Behler. [Constructing high‐dimensional neural network potentials: A tutorial review](https://onlinelibrary.wiley.com/doi/full/10.1002/qua.24890)
+
