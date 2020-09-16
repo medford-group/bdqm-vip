@@ -80,6 +80,14 @@ if `pwd` shows `/Users/thing` what will `ls -F ../backup` display
 * make a python script
 * run script
 
+#### Scripts, Environments, and Aliases
+* terminals are running a "shell" program. Most commonly, basic shell, or "bash" (other options: c shell, fish, etc.)
+* shell commands can be strung together and combined with loops/conditions to form "scripts" (usually .sh files)
+* by default, a "run commands" or "rc" script will be run when the shell starts (usually ~/.bashrc)
+* shells can access "environment variables" which tell them where files live (e.g. $PATH, $PYTHONPATH)
+* aliases can be used to create shortcuts and make new commands
+
+
 ### Using ssh To Get Onto The Supercomputer
 * ssh is a secure remote linux terminal
 * can be done through other programs on windows like [Putty](https://www.chiark.greenend.org.uk/~sgtatham/putty/)
