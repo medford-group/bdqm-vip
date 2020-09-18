@@ -142,7 +142,7 @@ print(atoms.get_potential_energy())
 
 ```
 
-There are now keyword arguments in the calculator. Kpoints are the density at which we sample the inverse space (maybe AJ can explain better.) `h` is the grid spacing of our mesh basis set. `tol_scf` is the convergence criteria. `Relax\_Flag` is just telling it we want to perform a structural relaxtion. The reset are controlling the output.
+There are now keyword arguments in the calculator. Kpoints are the density at which we sample the inverse space. `h` is the grid spacing of our mesh basis set. `tol_scf` is the convergence criteria. `Relax\_Flag` is just telling it we want to perform a structural relaxtion. The reset are controlling the output.
 
 Let's run it (don't do this normally.) Note that it has made lots of output files. `sprc-calc.out` is the main one.
 
