@@ -1,6 +1,6 @@
 # Running DFT on PACE
 
-Today we're going to go over how to run DFT calculations on the PACE supercomputing cluster. To review, a supercomputing cluster is a network of connected computers. You enter in the login node and request computing time on the computing nodes.
+Today we're going to go over how to run DFT calculations on the PACE supercomputing cluster. A supercomputing cluster is a network of connected computers. You enter in the login node and request computing time on the computing nodes.
 
 ![alt text](https://ucdavis-bioinformatics-training.github.io/2017-June-RNA-Seq-Workshop/monday/cluster_diagram.png "Cluster Supercomputer Structure")
 
@@ -89,7 +89,7 @@ qstat -u [username]
 
 Keep in mind that it may have already run. If it did run, we'll see the files `stdout` and `stderr` which contain the output.
 
-## Doing DFT
+## Running a DFT calculation
 
 We'll be using `SPARC-X` as our DFT calculator. This is an experimental calculator we're helping to develop.
 
@@ -103,21 +103,64 @@ mkdir sparc_run
 cd sparc_run
 ```
 
-We'll also need to load in SPARC and the accompanying software. To do that we're going to source an environmnet I made just for this.
+For running SPARC, we will need to compile the SPARC code. For using the python interface for SPARC, we will also need to clone and install the sparc-dft-api package and set the environment variables. The following are the commands for loading the modules and setting up the environment file:
 
 ```
-source /nv/pace-ice/bcomer3/sparc_env.sh
+module purge
+module load git
+module load intel/19.0.5
+module load anaconda3/2020.02
+
+git clone https://github.com/SPARC-X/SPARC.git
+cd SPARC/src/
+
+#go to makefile inside the directory src and set the variables as per instructions in SPARC documentation 
+#compiling SPARC code while still in src
+
+make clean; make
+
+#after compiling the code, clone the sparc-dft-api package
+git clone https://github.com/SPARC-X/sparc-dft-api.git
+
+#install or clone ase
+git clone -b 3.20.1 https://gitlab.com/ase/ase.git
 ```
+After cloning all the required packages, we can set up the environment file for specifically running SPARC DFT calculations. Here is how to do it:
 
-What is this doing? It is adding things to your `$PATH` and `$PYTHONPATH`. Linux looks for commands and programs to run by checking through the variable `$PATH` to find the program/command you've asked for. This is not critical to understand, but I mention it so this doesn't seem like magic.
+```
+#loading the modules
 
+module purge
+module load intel/19.0.5
+module load anaconda3/2020.02
+
+export PATH=/storage/home/hpaceice1/ssahoo41/data/SPARC/lib:$PATH
+export PYTHONPATH=/storage/home/hpaceice1/ssahoo41/data/ase:$PYTHONPATH
+export PATH=/storage/home/hpaceice1/ssahoo41/data/ase/bin:$PATH
+export PYTHONPATH=/storage/home/hpaceice1/ssahoo41/data/sparc-dft-api/:$PYTHONPATH
+export SPARC_PSP_PATH=/storage/home/hpaceice1/ssahoo41/data/sparc-dft-api/sparc/pseudos/PBE_pseudos
+
+if [[ -z "${PBS_NP}" ]]; then
+  export ASE_SPARC_COMMAND="/storage/home/hpaceice1/ssahoo41/data/SPARC/lib/sparc -name PREFIX"
+else
+  export ASE_SPARC_COMMAND="mpirun -np $PBS_NP /storage/home/hpaceice1/ssahoo41/data/SPARC/lib/sparc -name PREFIX"
+fi
+```
+What is this doing? It is adding things to your `$PATH` and `$PYTHONPATH`. Linux looks for commands and programs to run by checking through the variable `$PATH` to find the program/command you've asked for. 
+
+After setting the environment variables in the environment file, you can source it while running the DFT calculation by specifying it in your PBS script:
+
+```
+source /storage/home/hpaceice1/ssahoo41/data/sparc_env.sh
+
+```
 ### Running A DFT Calculation in ASE
 
-Using ASE to run DFT is just like running EMT like we did in the second week. Let's copy the example script below into a new file:
+Using ASE to run DFT is just like running EMT like we did while going through the ASE lecture. Let's copy the example script below into a new file:
 
 
 ```
-# import stuff
+# import lines
 from sparc.sparc_core import SPARC
 from ase.build import molecule
 
@@ -161,7 +204,7 @@ cd PBS_sparc_run
 Let's copy in our sparc python script and PBS batch file. We need to modify the PBS file to source our environment and run the script. So remove `echo "hello world"` and put in:
 
 ```
-source /nv/pace-ice/bcomer3/sparc_env.sh
+source storage/home/hpaceice1/ssahoo41/data/sparc_env.sh
 python calc_sparc.py
 ```
 
