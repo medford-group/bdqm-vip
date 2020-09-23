@@ -173,7 +173,7 @@ atoms.center()
 calc = SPARC(
              KPOINT_GRID=[1,1,1],
              h = 0.2,
-             EXCHANGE_CORRELATION = 'GGA',
+             EXCHANGE_CORRELATION = 'GGA_PBE',
              TOL_SCF=1e-5,
              RELAX_FLAG=1,
              PRINT_FORCES=1,
