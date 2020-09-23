@@ -31,7 +31,7 @@ This shows all the jobs in that queue at the moment. We can check the overall st
 pace-check-queue pace-ice
 ```
 
-Each line is a compute node (a rack computer sitting somewhere on campus.) The hostname is the internal address of this node, the tasks/np is how many of it's cores are being used, ect...
+Each line is a compute node (a rack computer sitting somewhere on campus.) The hostname is the internal address of this node, the tasks/np is how many of it's cores are being used, etc.
 
 We can see what jobs we are running with:
 
@@ -69,10 +69,10 @@ mkdir pace_run
 cd pace_run
 ```
 
-Next letsput this into a file:
+Next let's put this into a file:
 
 ```
-nano run.sh
+vi run.sh
 ```
 
 Finally to submit a job we need to use the `qsub` command. We just run `qsub [the name of the file]`. So that's:
