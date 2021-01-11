@@ -1,14 +1,13 @@
-Instructor: A. J. Medford
+Instructor/ Co-Instructor: A. J. Medford/ Sushree Jagriti Sahoo
 
 Email: [ajm@gatech.edu](mailto:ajm@gatech.edu)
-
+       [ssahoo41@gatech.edu](mailto:ssahoo41@gatech.edu)
+       
 Office Hours: [By Appointment](https://app.acuityscheduling.com/schedule.php?owner=18040156&appointmentType=11047919)
 
-Class Hours: W 9:30-10:20am
+Class Hours: Th 3:30-4:20pm
 
-Office Hours Location: [BlueJeans Office](https://bluejeans.com/4985363696)
-
-Class Room: [BlueJeans](https://bluejeans.com/150999360)
+Class Room: [BlueJeans](https://gatech.bluejeans.com/487888486)
 
 Course Description
 ==================
@@ -284,33 +283,33 @@ up the presentation.
 Schedule 
 ========
 
-Week 1: Introduction to VIP and projects (Medford)
+Week 1 (1/14): Introduction to VIP and projects (Sahoo)
 
-Week 2: Overview of literature searches (Medford)
+Week 2 (1/21): Overview of literature searches (Sahoo)
 
-Week 3: Intro to Python (Sahoo)
+Week 3 (1/28): Intro to Python (Sahoo)
 
-Week 4: Intro to ASE and adsorption energies (Sahoo)
+Week 4 (2/4): Intro to ASE and adsorption energies (Sahoo)
 
-Week 5: PACE and Bash scripting (Sahoo)
+Week 5 (2/11): PACE and Bash scripting (Sahoo)
 
-Week 6: Density functional theory calculations (Sahoo)
+Week 6 (2/18): Density functional theory calculations (Sahoo)
 
-Week 7: Midterm Updates
+Week 7 (2/25): Midterm Updates
 
-Week 8: Midterm Updates
+Week 8 (3/4): Midterm Updates
 
-Week 9: Atomistic machine learning: theory (Sahoo)
+Week 9 (3/11): Atomistic machine learning: theory (Sahoo)
 
-Week 10: Atomistic machine learning: application (Sahoo)
+Week 10 (3/18): Atomistic machine learning: application (Sahoo)
 
-Week 11: Workshop
+Week 11 (3/25): Workshop
 
-Week 12: Workshop
+Week 12 (4/1): Workshop
 
-Week 13: Final Updates
+Week 13 (4/8): Final Updates
 
-Week 14: Final Updates
+Week 14 (4/15): Final Updates
 
 Changes to Syllabus
 ===================
