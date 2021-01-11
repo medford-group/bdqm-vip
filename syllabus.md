@@ -1,6 +1,6 @@
 Instructor/ Co-Instructor: A. J. Medford/ Sushree Jagriti Sahoo
 
-Email: [ajm@gatech.edu](mailto:ajm@gatech.edu)
+Email: [ajm@gatech.edu](mailto:ajm@gatech.edu)/
        [ssahoo41@gatech.edu](mailto:ssahoo41@gatech.edu)
        
 Office Hours: [By Appointment](https://app.acuityscheduling.com/schedule.php?owner=18040156&appointmentType=11047919)
