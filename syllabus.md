@@ -283,33 +283,31 @@ up the presentation.
 Schedule 
 ========
 
-Week 1 (1/14): Introduction to VIP and projects (Sahoo)
+Week 1 (1/20): Introduction to VIP and projects (Sahoo)
 
-Week 2 (1/21): Overview of literature searches (Sahoo)
+Week 2 (1/27): Overview of literature searches (Sahoo)
 
-Week 3 (1/28): Intro to Python (Sahoo)
+Week 3 (1/3): Intro to Python (Sahoo)
 
-Week 4 (2/4): Intro to ASE and adsorption energies (Sahoo)
+Week 4 (2/10): Intro to ASE and adsorption energies (Sahoo)
 
-Week 5 (2/11): PACE and Bash scripting (Sahoo)
+Week 5 (2/17): PACE and Bash scripting (Sahoo)
 
-Week 6 (2/18): Density functional theory calculations (Sahoo)
+Week 6 (2/24): Density functional theory calculations (Sahoo)
 
-Week 7 (2/25): Midterm Updates
+Week 7 (3/3): Midterm Updates
 
-Week 8 (3/4): Midterm Updates
+Week 8 (3/10): Midterm Updates
 
-Week 9 (3/11): Atomistic machine learning: theory (Sahoo)
+Week 9 (3/17): Atomistic machine learning: theory (Sahoo)
 
-Week 10 (3/18): Atomistic machine learning: application (Sahoo)
+Week 10 (3/31): Atomistic machine learning: application (Sahoo)
 
-Week 11 (3/25): Workshop
+Week 11 (3/7): Workshop
 
-Week 12 (4/1): Workshop
+Week 12 (4/14): Workshop
 
-Week 13 (4/8): Final Updates
-
-Week 14 (4/15): Final Updates
+Week 13 (4/21): Final Updates
 
 Changes to Syllabus
 ===================
