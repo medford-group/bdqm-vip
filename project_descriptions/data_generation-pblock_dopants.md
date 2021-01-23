@@ -1,5 +1,5 @@
 # Data Generation/Infrastructure - Nitrogen Reactivity of p-Block Dopants on Oxides and SPARC interface development
-Advisor: Ben Comer/Jagriti Sahoo
+Advisor: Jagriti Sahoo
 
 Photocatalytic nitrogen fixation is an interesting new reaction that has the potential to create fertilizers from air. Research in the Medford group has explored many aspects of this reaction, and it was recently discovered that carbon impurities on titania (TiO<sub>2</sub>) may be the key to enabling the reaction. However, the role of other p-block elements has not been explored. One important factor in enabling this reaction is the relative reactivity between molecular nitrogen (N<sub>2</sub>) and molecular oxygen (O<sub>2</sub>), both of which are present in air. Surfaces that are preferentially reactive toward N2 are particularly promising for photocatalytic nitrogen fixation.
 
