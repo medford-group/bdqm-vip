@@ -299,9 +299,9 @@ Week 7 (3/3): Midterm Updates
 
 Week 8 (3/10): Midterm Updates
 
-Week 9 (3/17): Atomistic machine learning: theory (Sahoo)
+Week 9 (3/17): Atomistic machine learning: theory (Ray)
 
-Week 10 (3/31): Atomistic machine learning: application (Sahoo)
+Week 10 (3/31): Atomistic machine learning: application (Ray)
 
 Week 11 (3/7): Workshop
 
