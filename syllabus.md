@@ -5,7 +5,7 @@ Email: [ajm@gatech.edu](mailto:ajm@gatech.edu)/
        
 Office Hours: [By Appointment](https://app.acuityscheduling.com/schedule.php?owner=18040156&appointmentType=11047919)
 
-Class Hours: Th 3:30-4:20pm
+Class Hours: W 9:30-10:20am
 
 Class Room: [BlueJeans](https://gatech.bluejeans.com/487888486)
 
@@ -299,9 +299,9 @@ Week 7 (3/3): Midterm Updates
 
 Week 8 (3/10): Midterm Updates
 
-Week 9 (3/17): Atomistic machine learning: theory (Sahoo)
+Week 9 (3/17): Atomistic machine learning: theory (Ray)
 
-Week 10 (3/31): Atomistic machine learning: application (Sahoo)
+Week 10 (3/31): Atomistic machine learning: application (Ray)
 
 Week 11 (3/7): Workshop
 
