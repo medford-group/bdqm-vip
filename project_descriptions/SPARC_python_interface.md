@@ -9,6 +9,7 @@ Simulations Package for Ab-inito Real Space Calculations or SPARC is an open sou
 
 The team will focus on transitioning to SPARC infrastructure. This will involve improving the sparc-dft-api to make it more efficient for DFT calculations. The sparc-dft-api can be accessed using the following link:
 https://github.com/SPARC-X/sparc-dft-api
+
 Running the SPARC code requires two input files, .inpt file with the appropriate DFT settings and .ion file with atomic positions and constraints on the atoms of a given system. Currently, the SPARC python interface has multiple utilities but it is still in its development phase, hence there is a lot of scope for improvement. The goal of this project is to understand the utilities offered by the python interface and develop it further such that it works efficiently with ASE Atoms objects. 
 
 ## Midterm Goals
