@@ -1,13 +1,17 @@
-Instructor/ Co-Instructor: A. J. Medford/ Sushree Jagriti Sahoo
+Instructor: A. J. Medford
+
+TA: Jagriti Sahoo
+TA: Nicole Hu
 
 Email: [ajm@gatech.edu](mailto:ajm@gatech.edu)/
        [ssahoo41@gatech.edu](mailto:ssahoo41@gatech.edu)
+       [yugehu@gatech.edu](mailto:yugehu@gatech.edu)
        
 Office Hours: [By Appointment](https://app.acuityscheduling.com/schedule.php?owner=18040156&appointmentType=11047919)
 
 Class Hours: W 9:30-10:20am
 
-Class Room: [BlueJeans](https://gatech.bluejeans.com/487888486)
+Class Room: BlueJeans (virtual lectures) & College of Computing 102 (in person meetings)
 
 Course Description
 ==================
@@ -109,9 +113,9 @@ submission of assignments:
 -   Slack: The group Slack channel is the preferred method of
     communication with instructors and graduate students. You are
     responsible for anything that is announced in the `vip`
-    Slack channel.
+    Slack channel. You can join the Slack channel via [this link](https://join.slack.com/t/medfordgroup/shared_invite/zt-uj1pt7d3-TTF9QNEkhfmRELNy7lM3oA).
 
-Course Objectives {#course-objectives .unnumbered}
+Course Objectives
 =================
 
 1.  Calculate adsorption energies using the density functional
@@ -263,51 +267,50 @@ this grade. Note that you **only need to complete peer evals for your sub-team m
 but **peer grading will be across different subteams** and will be explicitly
 assigned.
 
-Meeting Format
---------------
+Course Format
+-------------
 
-The first weeks will involve an overview of the team, available
-projects, and discussion of goals. Subsequent weeks will include
-training lectures by graduate students, and/or 10 minute update
-presentations by VIP sub-teams. The goal of these presentations is to
-present progress and challenges so that the rest of the class can make
-suggestions. Updates should be informal and consist of 5 or fewer
-slides. The remaining time in the class will be used as a “workshop”
-where teams can interact with their sub-team advisor and/or each other
-as needed. **If nobody from your group is present when you are scheduled
-to present then everyone in the group will lose 1/2 point (out of 5
-total) from your “Documentation” grade**. Please let an instructor know
-if nobody can make it, and work with other groups to find a time to make
-up the presentation.
+The course will by offered in a hybrid, flipped classroom format. We have multiple online MS students who work in the course, so it is important to provide a mechanism for remote participation. For this reason, we will pre-record training lecture videos and use the course time to meet and discuss the training materials or individual projects.
+
+The current plan for delivery of each lecture is provided below using the following types:
+
+* Virtual synchronous - these lectures will take place in a BlueJeans meeting room. The link will be provided via Canvas if it is not available here.
+* Pre-recorded - these lectures will be recorded and provided via Canvas. You are expected to **meet with your sub-team and mentor during class time** on these weeks. You can coordinate with your sub-team to decide on the most convenient option.
+* In person - all on-campus students are expected to come to the classroom for these lectures. Virtual students will present or interact using video conferencing as needed.
+
+This schedule is **subject to change** based on COVID protocols and instructor availability. We will do our best to keep this page updated, but please pay attention to Canvas announcements as well.
+
 
 Schedule 
 ========
 
-Week 1 (1/20): Introduction to VIP and projects (Sahoo)
+Week 1 (8/25): Introduction to VIP and projects (Medford - virtual synchronous)
 
-Week 2 (1/27): Overview of literature searches (Sahoo)
+Week 2 (9/1): Overview of literature searches (Medford - pre-recorded)
 
-Week 3 (1/3): Intro to Python (Sahoo)
+Week 3 (9/8): Intro to Python (Sahoo - pre-recorded)
 
-Week 4 (2/10): Intro to ASE and adsorption energies (Sahoo)
+Week 4 (9/15): Intro to ASE and adsorption energies (Sahoo - pre-recorded)
 
-Week 5 (2/17): PACE and Bash scripting (Sahoo)
+Week 5 (9/22): PACE and Bash scripting (Sahoo - pre-recorded)
 
-Week 6 (2/24): Density functional theory calculations (Sahoo)
+Week 6 (9/29): Density functional theory calculations (Sahoo - pre-recorded)
 
-Week 7 (3/3): Midterm Updates
+Week 7 (10/6): Midterm Updates (in person)
 
-Week 8 (3/10): Midterm Updates
+Week 8 (10/13): Midterm Updates (virtual synchronous)
 
-Week 9 (3/17): Atomistic machine learning: theory (Ray)
+Week 9 (10/20): Atomistic machine learning: theory (Hu - pre-recorded)
 
-Week 10 (3/31): Atomistic machine learning: application (Ray)
+Week 10 (10/27): Atomistic machine learning: AMPTorch (Hu - pre-recorded)
 
-Week 11 (3/7): Workshop
+Week 11 (11/3): Atomistic machine learning: GMP features (Hu - pre-recorded)
 
-Week 12 (4/14): Workshop
+Week 12 (11/10): Workshop (in person)
 
-Week 13 (4/21): Final Updates
+Week 13 (11/17): Workshop (in person)
+
+Week 14 (12/1): Final Updates (pre-recorded)
 
 Changes to Syllabus
 ===================
