@@ -3,7 +3,7 @@ Advisor: Jagriti Sahoo
 
 ## Introduction 
 
-Simulations Package for Ab-inito Real Space Calculations or SPARC is an open source computational framework that can be utilized to perform Density Functional Theory (DFT) for chemical systems such as molecules, periodic bulk crystals, extended slabs, nanoparticles etc. It is a finite-difference code that scales linearly with system size. It can be used for applications in the field of heterogeneous catalysis such as elucidation of reaction mechanism on catalytic processes. The sparc-dft-api is an Atomic Simulations Environment (ASE) based python wrapper for SPARC and is compatible with Python3. 
+Simulations Package for Ab-inito Real Space Calculations or SPARC is an open source computational framework that can be utilized to perform Density Functional Theory (DFT) for chemical systems such as molecules, periodic bulk crystals, extended slabs, nanoparticles etc. It is a finite-difference code where the walltime decreases linearly with the number of cores used, enabling very fast calculations. It can be used for applications in the field of heterogeneous catalysis such as elucidation of reaction mechanism on catalytic processes. The sparc-dft-api is an Atomic Simulations Environment (ASE) based python wrapper for SPARC and is compatible with Python3. 
 
 ## Project Description
 
