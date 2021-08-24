@@ -31,3 +31,9 @@ By the final, you are expected to add the utilities mentioned in the midterm goa
 ### Final Deliverables
 
 Push the changes to the sparc-dft-api GitHub repository and submit a report with details of your strategy on improving the functionality of the Python interface. 
+
+## References
+
+To learn more about SPARC, please refer to the following paper:
+
+* Xu, Q., Sharma, A., Comer, B., Huang, H., Chow, E., Medford, A. J., ... & Suryanarayana, P. (2021). SPARC: Simulation package for ab-initio real-space calculations. SoftwareX, 15, 100709. (https://www.sciencedirect.com/science/article/pii/S2352711021000546)
