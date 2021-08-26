@@ -1,0 +1,9 @@
+# Python
+__pycache__/
+
+# AMPTorch
+processed/
+checkpoints/
+
+# Jupyter Notebook
+.ipynb_checkpoints/
