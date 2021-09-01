@@ -11,7 +11,7 @@ Office Hours: [By Appointment](https://app.acuityscheduling.com/schedule.php?own
 
 Class Hours: W 9:30-10:20am
 
-Class Room: BlueJeans (virtual lectures) & College of Computing 102 (in person meetings)
+Class Room: [BlueJeans](https://gatech.bluejeans.com/709262848) (virtual lectures) & College of Computing 102 (in person meetings)
 
 Course Description
 ==================
