@@ -1,6 +1,6 @@
-# Introduction To Liunx
+# Introduction To Liunx operating system (OS)
 
-[Linux](https://github.com/torvalds/linux) is an open source operating system developed by [Linus Torvalds](https://en.wikipedia.org/wiki/Linus_Torvalds). Linux is based on [Unix](https://en.wikipedia.org/wiki/Unix), and therefore shares much of its functionality with other unix based operating systems (such as MacOS.) Linux is the most commnly used operating system in computational research groups and runs much of the internet.
+[Linux](https://github.com/torvalds/linux) is an open source OS developed by [Linus Torvalds](https://en.wikipedia.org/wiki/Linus_Torvalds). An OS is a resource manager that is used to access system resources by users and application programs. Linux is based on [Unix](https://en.wikipedia.org/wiki/Unix), and therefore shares much of its functionality with other unix based operating systems (such as MacOS.) Linux is the most widely used OS in computational research groups and runs much of the internet because it is freely available.
 
 ## The Linux Terminal
 
