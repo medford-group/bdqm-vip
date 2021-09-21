@@ -96,7 +96,7 @@ if `pwd` shows `/Users/thing` what will `ls -F ../backup` display
 
 ## Linux Cluster Supercomputers
 * pace is a [Linux cluster supercomputer](https://en.wikipedia.org/wiki/Computer_cluster)
-* it is several computers all running linux connected together
+* It is several computers all running linux connected together
 * supercomputers are not one big fast computer, it is many reasonably fast computers connected together
 * you could even [build your own](http://likemagicappears.com/projects/raspberry-pi-cluster/)
 ![alt text](https://ucdavis-bioinformatics-training.github.io/2017-June-RNA-Seq-Workshop/monday/cluster_diagram.png "Cluster Supercomputer Structure")
