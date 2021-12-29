@@ -1,5 +1,5 @@
 # DFT Infrastructure- SPARC python interface development
-Advisors: Phanish Suryanarayana and Jagriti Sahoo
+Advisors: Jagriti Sahoo and Phanish Suryanarayana 
 
 ## Introduction 
 

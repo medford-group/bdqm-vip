@@ -1,6 +1,6 @@
 # Nearest-neighbor subsampling efficiency improvement
 
-Advisor: Nicole Hu
+Advisors: AJ Medford and Nicole Hu
 
 ## _Background:_
 
