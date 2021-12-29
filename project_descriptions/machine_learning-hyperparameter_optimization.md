@@ -1,8 +1,6 @@
 # Hyperparameter Optimization for AMPTorch
+Advisor: Nicole Hu
 
-Contact: Nicole Hu
-
-Date: 08/23/2021
 
 ## _Background:_
 

@@ -1,17 +1,20 @@
 Instructor: A. J. Medford
+Co-instructor: Phanish Suryanarayana
 
-TA: Jagriti Sahoo
-TA: Nicole Hu
+TA's: Jagriti Sahoo, Nicole Hu, Kaylee Tian, Lucas Timmerman
 
 Email: [ajm@gatech.edu](mailto:ajm@gatech.edu)/
+       [phanish.suryanarayana@ce.gatech.edu](mailto:phanish.suryanarayana@ce.gatech.edu)
        [ssahoo41@gatech.edu](mailto:ssahoo41@gatech.edu)
        [yugehu@gatech.edu](mailto:yugehu@gatech.edu)
+       [ntian30@gatech.edu](mailto:ntian30@gatech.edu)
+       [ltimmerman3@gatech.edu](mailto:ltimmerman3@gatech.edu)
        
 Office Hours: [By Appointment](https://app.acuityscheduling.com/schedule.php?owner=18040156&appointmentType=11047919)
 
 Class Hours: W 9:30-10:20am
 
-Class Room: [BlueJeans](https://gatech.bluejeans.com/709262848) (virtual lectures) & College of Computing 102 (in person meetings)
+Class Room: [BlueJeans](https://gatech.bluejeans.com/411789847)
 
 Course Description
 ==================
