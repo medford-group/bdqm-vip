@@ -5,15 +5,15 @@ TA's: Jagriti Sahoo, Nicole Hu, Kaylee Tian, Lucas Timmerman
 
 Email: [ajm@gatech.edu](mailto:ajm@gatech.edu)
 
-       [phanish.suryanarayana@ce.gatech.edu](mailto:phanish.suryanarayana@ce.gatech.edu)
+[phanish.suryanarayana@ce.gatech.edu](mailto:phanish.suryanarayana@ce.gatech.edu)
        
-       [ssahoo41@gatech.edu](mailto:ssahoo41@gatech.edu)
+[ssahoo41@gatech.edu](mailto:ssahoo41@gatech.edu)
        
-       [yugehu@gatech.edu](mailto:yugehu@gatech.edu)
+[yugehu@gatech.edu](mailto:yugehu@gatech.edu)
        
-       [ntian30@gatech.edu](mailto:ntian30@gatech.edu)
+[ntian30@gatech.edu](mailto:ntian30@gatech.edu)
        
-       [ltimmerman3@gatech.edu](mailto:ltimmerman3@gatech.edu)
+[ltimmerman3@gatech.edu](mailto:ltimmerman3@gatech.edu)
        
 Office Hours: [By Appointment](https://app.acuityscheduling.com/schedule.php?owner=18040156&appointmentType=11047919)
 
