@@ -177,7 +177,7 @@ The weekly update should include the following components:
 - Discussion of any key challenges or results
 - Tasks to be completed in future weeks
 - Documentation needed to repeat analysis and access results
-- A formal citation of one source (peer-reviewed or permanently archived) that was useful during that week.
+- A literature review of at least one paper that you read or used during the weeks (see [literature review lecture](https://github.com/medford-group/bdqm-vip/blob/master/lectures/01_Projects_and_Literature_Searching.ipynb))
 
 
 Documentation for the bi-weekly updates should be provided as a text file or Word document.
