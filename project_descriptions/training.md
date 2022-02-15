@@ -1,4 +1,5 @@
 # Big Data and Quantum Mechanics Traning Project
+Advisors: Lucas Timmerman and Kaylee Tian
 
 This project covers basic training for 1) generating data using quantum-mechanical simulations based on density functional theory (DFT) and 2) using machine learning to create models that predict the outcome of these simulations based on large datasets.
 

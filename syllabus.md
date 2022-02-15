@@ -1,17 +1,25 @@
 Instructor: A. J. Medford
+Co-instructor: Phanish Suryanarayana
 
-TA: Jagriti Sahoo
-TA: Nicole Hu
+TA's: Jagriti Sahoo, Nicole Hu, Kaylee Tian, Lucas Timmerman
 
-Email: [ajm@gatech.edu](mailto:ajm@gatech.edu)/
-       [ssahoo41@gatech.edu](mailto:ssahoo41@gatech.edu)
-       [yugehu@gatech.edu](mailto:yugehu@gatech.edu)
+Email: [ajm@gatech.edu](mailto:ajm@gatech.edu)
+
+[phanish.suryanarayana@ce.gatech.edu](mailto:phanish.suryanarayana@ce.gatech.edu)
+       
+[ssahoo41@gatech.edu](mailto:ssahoo41@gatech.edu)
+       
+[yugehu@gatech.edu](mailto:yugehu@gatech.edu)
+       
+[ntian30@gatech.edu](mailto:ntian30@gatech.edu)
+       
+[ltimmerman3@gatech.edu](mailto:ltimmerman3@gatech.edu)
        
 Office Hours: [By Appointment](https://app.acuityscheduling.com/schedule.php?owner=18040156&appointmentType=11047919)
 
 Class Hours: W 9:30-10:20am
 
-Class Room: BlueJeans (virtual lectures) & College of Computing 102 (in person meetings)
+Class Room: [BlueJeans](https://gatech.bluejeans.com/411789847)
 
 Course Description
 ==================
@@ -169,7 +177,7 @@ The weekly update should include the following components:
 - Discussion of any key challenges or results
 - Tasks to be completed in future weeks
 - Documentation needed to repeat analysis and access results
-- A formal citation of one source (peer-reviewed or permanently archived) that was useful during that week.
+- A literature review of at least one paper that you read or used during the weeks (see [literature review lecture](https://github.com/medford-group/bdqm-vip/blob/master/lectures/01_Projects_and_Literature_Searching.ipynb))
 
 
 Documentation for the bi-weekly updates should be provided as a text file or Word document.
@@ -284,33 +292,33 @@ This schedule is **subject to change** based on COVID protocols and instructor a
 Schedule 
 ========
 
-Week 1 (8/25): Introduction to VIP and projects (Medford - virtual synchronous)
+Week 1 (1/12): Introduction to VIP and projects (Medford - virtual synchronous)
 
-Week 2 (9/1): Overview of literature searches (Medford - pre-recorded)
+Week 2 (1/19): Overview of literature searches (Medford - pre-recorded)
 
-Week 3 (9/8): Intro to Python (Sahoo - pre-recorded)
+Week 3 (1/26): Intro to Python (Sahoo - pre-recorded)
 
-Week 4 (9/15): Intro to ASE and adsorption energies (Sahoo - pre-recorded)
+Week 4 (2/2): Intro to ASE and adsorption energies (Sahoo - pre-recorded)
 
-Week 5 (9/22): PACE and Bash scripting (Sahoo - pre-recorded)
+Week 5 (2/9): PACE and Bash scripting (Sahoo - pre-recorded)
 
-Week 6 (9/29): Density functional theory calculations (Sahoo - pre-recorded)
+Week 6 (2/16): Density functional theory calculations (Sahoo - pre-recorded)
 
-Week 7 (10/6): Midterm Updates (in person)
+Week 7 (2/23): Workshop (virtual synchronous)
 
-Week 8 (10/13): Midterm Updates (virtual synchronous)
+Week 8 (3/2): Midterm Updates (pre-recorded presentations, virtual synchronous Q&A)
 
-Week 9 (10/20): Atomistic machine learning: theory (Hu - pre-recorded)
+Week 9 (3/9): Atomistic machine learning: theory (Hu - pre-recorded)
 
-Week 10 (10/27): Atomistic machine learning: AMPTorch (Hu - pre-recorded)
+Week 10 (3/16): Atomistic machine learning: AMPTorch (Hu - pre-recorded)
 
-Week 11 (11/3): Atomistic machine learning: GMP features (Hu - pre-recorded)
+Week 11 (3/30): Atomistic machine learning: GMP features (Hu - pre-recorded)
 
-Week 12 (11/10): Workshop (in person)
+Week 12 (4/6): Workshop (virtual synchronous)
 
-Week 13 (11/17): Workshop (in person)
+Week 13 (4/13): Workshop (virtual synchronous)
 
-Week 14 (12/1): Final Updates (pre-recorded)
+Week 14 (4/20): Final Updates (pre-recorded presentations, virtual synchronous Q&A)
 
 Changes to Syllabus
 ===================

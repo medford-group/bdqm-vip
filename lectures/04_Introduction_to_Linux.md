@@ -1,6 +1,6 @@
-# Introduction To Liunx
+# Introduction To Liunx operating system (OS)
 
-[Linux](https://github.com/torvalds/linux) is an open source operating system developed by [Linus Torvalds](https://en.wikipedia.org/wiki/Linus_Torvalds). Linux is based on [Unix](https://en.wikipedia.org/wiki/Unix), and therefore shares much of its functionality with other unix based operating systems (such as MacOS.) Linux is the most commnly used operating system in computational research groups and runs much of the internet.
+An OS is a resource manager that is used to access system resources by users and application programs. [Linux](https://github.com/torvalds/linux) is an open source OS developed by [Linus Torvalds](https://en.wikipedia.org/wiki/Linus_Torvalds).  Linux is based on [Unix](https://en.wikipedia.org/wiki/Unix), and therefore shares much of its functionality with other unix based operating systems (such as MacOS.) Linux is the most widely used OS in computational research groups and runs much of the internet because it is freely available.
 
 ## The Linux Terminal
 
@@ -96,8 +96,8 @@ if `pwd` shows `/Users/thing` what will `ls -F ../backup` display
 
 ## Linux Cluster Supercomputers
 * pace is a [Linux cluster supercomputer](https://en.wikipedia.org/wiki/Computer_cluster)
-* it is several computers all running linux connected together
-* supercomputers are not one big fast computer, it is many reasonably fast computers connected together
-* you could even [build your own](http://likemagicappears.com/projects/raspberry-pi-cluster/)
+* It is several computers all running linux connected together
+* Supercomputers are not one big fast computer, it is many reasonably fast computers connected together
 ![alt text](https://ucdavis-bioinformatics-training.github.io/2017-June-RNA-Seq-Workshop/monday/cluster_diagram.png "Cluster Supercomputer Structure")
+* If you want to learn more about PACE-ICE works, you can visit [PACE-ICE]{https://pace.gatech.edu/pace-ice-instructional-cluster-environment-education}. 
 
