@@ -22,3 +22,11 @@ https://docs.microsoft.com/en-us/windows/wsl/install-win10
 
 #### Mac users:
 Be sure you can open a [terminal](https://www.youtube.com/watch?v=zw7Nd67_aFw)
+
+### Port-forwarding to a jupyter notebook on pace-ice 
+
+`pace-jupyter-notebook -q pace-ice --anaconda=anaconda3 --conda-env=<CONDA_ENVIRONMENT>`
+
+<CONDA_ENVIRONMENT> is the name of your venv 
+
+After running this command, follow the prompts on the screen
