@@ -4,7 +4,7 @@
 
 This is the Github repository for course materials pertaining to the "Big Data and Quantum Mechanics" (BDQM) section of the "Vertically Integrated Projects" (VIP) course. Details on course structure and grading are available in the syllabus, and lectures, project descriptions, and other scripts are also available.
 
-All assignments should be submitted via Canvas, and all students should join the Slack channel for efficient communication.
+All assignments should be submitted via Canvas, and all students should join the [Slack channel](https://join.slack.com/t/medfordgroup/shared_invite/zt-uj1pt7d3-TTF9QNEkhfmRELNy7lM3oA) for efficient communication.
 
 ## Recommended Reading
 
