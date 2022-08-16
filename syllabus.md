@@ -19,7 +19,7 @@ Office Hours: [By Appointment](https://app.acuityscheduling.com/schedule.php?own
 
 Class Hours: W 9:30-10:20am
 
-Class Room: [BlueJeans](https://gatech.bluejeans.com/411789847)
+Class Room: [Zoom](https://gatech.zoom.us/j/92303352154)
 
 Course Description
 ==================
@@ -292,33 +292,33 @@ This schedule is **subject to change** based on COVID protocols and instructor a
 Schedule 
 ========
 
-Week 1 (1/12): Introduction to VIP and projects (Medford - virtual synchronous)
+Week 1 (8/24): Introduction to VIP and projects (Medford - pre-recorded, Tian - virtual synchronous)
 
-Week 2 (1/19): Overview of literature searches (Medford - pre-recorded)
+Week 2 (8/31): Overview of literature searches (Medford - pre-recorded)
 
-Week 3 (1/26): Intro to Python (Sahoo - pre-recorded)
+Week 3 (9/7): Intro to Python (Sahoo - pre-recorded)
 
-Week 4 (2/2): Intro to ASE and adsorption energies (Sahoo - pre-recorded)
+Week 4 (9/14): Intro to ASE and adsorption energies (Sahoo - pre-recorded)
 
-Week 5 (2/9): PACE and Bash scripting (Sahoo - pre-recorded)
+Week 5 (9/21): PACE and Bash scripting (Sahoo - pre-recorded)
 
-Week 6 (2/16): Density functional theory calculations (Sahoo - pre-recorded)
+Week 6 (9/28): Density functional theory calculations (Sahoo - pre-recorded)
 
-Week 7 (2/23): Workshop (virtual synchronous)
+Week 7 (10/5): Workshop (virtual synchronous)
 
-Week 8 (3/2): Midterm Updates (pre-recorded presentations, virtual synchronous Q&A)
+Week 8 (10/12): Midterm Updates (pre-recorded presentations, virtual synchronous Q&A)
 
-Week 9 (3/9): Atomistic machine learning: theory (Hu - pre-recorded)
+Week 9 (10/19): Atomistic machine learning: theory (Hu - pre-recorded)
 
-Week 10 (3/16): Atomistic machine learning: AMPTorch (Hu - pre-recorded)
+Week 10 (10/26): Atomistic machine learning: AMPTorch (Hu - pre-recorded)
 
-Week 11 (3/30): Atomistic machine learning: GMP features (Hu - pre-recorded)
+Week 11 (11/2): Atomistic machine learning: GMP features (Hu - pre-recorded)
 
-Week 12 (4/6): Workshop (virtual synchronous)
+Week 12 (11/9): Workshop (virtual synchronous)
 
-Week 13 (4/13): Workshop (virtual synchronous)
+Week 13 (11/16): Workshop (virtual synchronous)
 
-Week 14 (4/20): Final Updates (pre-recorded presentations, virtual synchronous Q&A)
+Week 14 (11/30): Final Updates (pre-recorded presentations, virtual synchronous Q&A)
 
 Changes to Syllabus
 ===================
