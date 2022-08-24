@@ -13,7 +13,7 @@ Compute the reaction energy of 2H2O -> 2H2 + O2 using DFT on the PACE computing 
 * A .zip file containing all relevant inputs and outputs for the calculatoin.
 
 ## Final Goal:
-Train a neural-network model to predict the energies and forces of 0.05 eV/Angstrom on the water data provided in `data/training_data.traj`. You can use the [AMP package](https://amp.readthedocs.io/en/latest/) to complete this task.
+Train a neural-network model to predict the energies and forces of 0.05 eV/Angstrom on the water data provided in `bdqm-vip/data/training_data.traj`. We recommend using the [Amptorch](https://github.com/ulissigroup/amptorch.git) package to complete this task.
 
 ### Final Deliverables:
 * A zip/tar archive containing your trained force field and the training data used to generate it.
