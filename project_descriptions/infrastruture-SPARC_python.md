@@ -16,7 +16,7 @@ For this semester, we want to improve upon the existing infrastructure that was 
 By midterm, you are expected to understand the utilities offered by the SPARC python interface and the how the current architecture works. You are expected to run the current implementation and work on the extension such that the python interface can use i-Pi protocol to connect to SPARC backend.
  
 
-### Final Deliverables
+## Final Deliverables
 
 Push the changes to the sparc-dft-api GitHub repository and submit a report with details of your strategy on improving the functionality of the Python interface. 
 
