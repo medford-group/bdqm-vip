@@ -13,20 +13,23 @@ This project will focus on improving the efficiency of a current implementation 
     * Testing Dataset: `data/amptorch_data/*`
 
 ## _Midterm Goal:_
+- Validate and improve efficacy of current algorithm. Compare to a k-means subsampling formulation.
 
-- Create or gain access to the OC20 dataset features and latent spaces from GMP and neural net models, and use the NNS algorithm to create systematic sub-sets.
+- Evaluate faiss as an alternative for nearest neighbor search or as an alternative form of subsampling (such as directly clustering the data). Also evaluate its ability to scale in terms of dimensions.
 
 - Establish the formal scaling of the NNS sampling algorithm relative to k-means.
 
 - Visualize the clustering performance of the NNS algorithm on QM9.
 
 * **Midterm deliverables:** 
+- Comparison to a k-means subsampling formulation in terms of wallclock time, point diversity, number of points, and mean/max errors (in eV/system) after training via amptorch.
 
-- Down-sampled versions of OC20 IS2RE containing 1000, 5000, 10,000 and 50,000 data points selected with NNS (LMDB files on PACE ICE or Terminus).
+- Implement faiss and compare to pykdtree formulation (if applicable). Include differences in wallclock time, mean/max errors, and ability to scale in terms of number of dimensions.
 
-- Comparison of visualized clusters and computataionl cost for NNS and k-Means sampling for QM9 dataset.
+- Comparison of visualized clusters and computatational cost for NNS and k-Means sampling for QM9 dataset.
 
 ## _Final Goal:_
+- Create or gain access to the OC20 dataset features and latent spaces from GMP and neural net models, and use the NNS algorithm to create systematic sub-sets.
 
 - Apply the NNS algorithm to the full S2EF dataset from OC20 (~100M points).
 
@@ -34,9 +37,11 @@ This project will focus on improving the efficiency of a current implementation 
 
 * **Final deliverables:** 
 
+- Down-sampled versions of OC20 IS2RE containing 1000, 5000, 10,000 and 50,000 data points selected with NNS (LMDB files on PACE ICE or Terminus).
+
 - Down-sampled versions of OC20 S2EF containing 100K, 500K, 1M and 5M data points selected with NNS (LMDB files on PACE ICE).
 
-- Final report with detailed timing and accuracy comparisons for NNS and k-Means.
+- Final report with detailed timing and accuracy comparisons for NNS and k-Means clustering algorithms.
 
 
 ## _Reference_
