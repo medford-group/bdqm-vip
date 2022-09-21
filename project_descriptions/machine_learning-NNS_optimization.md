@@ -15,16 +15,16 @@ This project will focus on improving the efficiency of a current implementation 
 ## _Midterm Goal:_
 - Validate and improve efficacy of current algorithm. Compare to a k-means subsampling formulation.
 
-- Evaluate faiss as an alternative for nearest neighbor search or as an alternative form of subsampling (such as directly clustering the data). Also evaluate its ability to scale in terms of dimensions.
+- Evaluate faiss as an alternative for nearest neighbor search or as an alternative form of subsampling (such as directly clustering the data). Also evaluate its ability to scale in terms of number of dimension.
 
 - Establish the formal scaling of the NNS sampling algorithm relative to k-means.
 
 - Visualize the clustering performance of the NNS algorithm on QM9.
 
 * **Midterm deliverables:** 
-- Comparison to a k-means subsampling formulation in terms of wallclock time, point diversity, number of points, and mean/max errors (in eV/system) after training via amptorch.
+- Comparison to a k-means subsampling formulation in terms of wallclock time, point diversity, and number of points.
 
-- Implement faiss and compare to pykdtree formulation (if applicable). Include differences in wallclock time, mean/max errors, and ability to scale in terms of number of dimensions.
+- Implement faiss and compare to pykdtree formulation (if applicable). Include differences in wallclock time, point diversity, number of points, and ability to scale in terms of number of dimensions.
 
 - Comparison of visualized clusters and computatational cost for NNS and k-Means sampling for QM9 dataset.
 
