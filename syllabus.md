@@ -1,25 +1,20 @@
 Instructor: A. J. Medford
-Co-instructor: Phanish Suryanarayana
 
-TA's: Jagriti Sahoo, Nicole Hu, Kaylee Tian, Lucas Timmerman
+TA's: Lucas Timmerman, Nicole Hu, Neung-Kyung Yu
 
 Email: [ajm@gatech.edu](mailto:ajm@gatech.edu)
 
-[phanish.suryanarayana@ce.gatech.edu](mailto:phanish.suryanarayana@ce.gatech.edu)
-       
-[ssahoo41@gatech.edu](mailto:ssahoo41@gatech.edu)
+[ltimmerman3@gatech.edu](mailto:ltimmerman3@gatech.edu)
        
 [yugehu@gatech.edu](mailto:yugehu@gatech.edu)
        
-[ntian30@gatech.edu](mailto:ntian30@gatech.edu)
-       
-[ltimmerman3@gatech.edu](mailto:ltimmerman3@gatech.edu)
+[nyu49@gatech.edu](mailto:nyu49@gatech.edu)
        
 Office Hours: [By Appointment](https://app.acuityscheduling.com/schedule.php?owner=18040156&appointmentType=11047919)
 
 Class Hours: W 9:30-10:20am
 
-Class Room: [Zoom](https://gatech.zoom.us/j/92303352154)
+Class Room: Zoom (see Canvas App)
 
 Course Description
 ==================
@@ -64,7 +59,7 @@ application domain of surface science and catalysis. The team merges
 expertise from computational and physical sciences, and students from
 computer science, electrical engineering, industrial & systems
 engineering, chemical engineering, chemistry, physics, and materials
-science. The VIP course consists of 4 classes of sub-team projects:
+science. The VIP course consists of three sub-teams:
 
 -   Training: All new students must complete a “training” project that
     involves the calculation of an adsorption energy using the
@@ -77,35 +72,30 @@ science. The VIP course consists of 4 classes of sub-team projects:
     simulations, and machine learning packages used for atomic
     simulation data.
 
--   Data Generation: These projects will utilize DFT calculations
-    performed on the PACE supercomputer to generate datasets of
-    scientific relevance for problems in surface science and catalysis.
-    This may involve the identification of new catalyst materials via
-    high-throughput screening, or gaining an in-depth understanding of
-    the catalytic behavior of a material based on modeling of various
-    intermediate species and reaction pathways. Projects may also
-    involve improving the codes used to generate the DFT data, or the
-    infrastructure used to collect and organize the resulting data.
-
--   Machine Learning: These projects will focus on training
+-   "Big Data": This sub-team will focus on training
     machine-learning models to reproduce the output of DFT calculations.
-    In particular, “neural network force-fields” provide a route to
-    rapidly predict the energies and forces on atoms based on training
-    data gathered from DFT or other atomistic simulation techniques.
-    There are established packages like the Atomistic Machine-learning
-    Package (AMP) and the Simple-NN package where these models
-    are implemented. However, optimizing the architecture and parameters
-    of the neural network remains challenging. These projects will work
-    with specific datasets and students will try to improve the
-    performance of the machine-learning model by
-    varying hyper-parameters. 
+    In particular, this team will utilize a variety of available technology to
+    train and optimize models for the "[Open Catalyst Project](https://opencatalystproject.org/)"
+    challenge datasets. This may involve sub-tasks like testing the performance
+    of new models, optimization of hyper-parameters, establishing smaller sub-sampled 
+    datasets for rapid testing, or developing new infrastructure to make
+    data transfer and model deployment more efficient.
 
--   Software Infrastructure: These projects will focus on specific aspects
-    of computational tools used or developed by graduate students and 
-    advance these tools by implementing new methods, adding documentation,
-    or creating new example use cases. Some software tools developed by the
-    group or our collaborators include the [ElectroLens](https://medford-group.github.io/ElectroLens/) visualization tool,
-    the [SPARC DFT code](https://www.sparc-x.com/), and the [AMPTorch](https://github.com/ulissigroup/amptorch) code for atomistic machine learning.
+-   "Quantum Mechanics": This sub-team will focus on applying and improving
+    the [SPARC DFT code](https://www.sparc-x.com/) developed at Georgia Tech. 
+    This may involve sub-tasks like developing new features for the Python
+    interface to SPARC, testing recently developed algorithms in SPARC,
+    creating pseudopotentials that enable faster and more accurate calculations
+    with SPARC, or developing websites and infrastructure to make SPARC
+    easier to use.
+    
+It is also possible to take on "independent study" projects within the course. These projects
+are generally based on a student's ideas or interests, and must be established and approved
+by Prof. Medford at least one week prior to the start of the semester. The projects are often
+high-risk exploratory projects that may eventually merge into sub-tasks of the "Big Data" or
+"Quantum Mechanics" sub-teams. If you are interested in an independent study project you should
+contact Dr. Medford as soon as possible to initiate discussions on what is within scope for
+the course and what is feasible given timelines and resources.
 
 Course Logistics
 ================
@@ -202,13 +192,14 @@ Personal Accomplishments
 ------------------------
 
 Personal accomplishments will be measured by self-defined goals and a
-combination of instructor and peer evaluation. Within the **first two weeks**
-of the semester students returning to projects will define midterm and
-semester goals for their project. Each goal should have a deliverable
+combination of instructor and peer evaluation. Within the **first three weeks**
+of the semester students will define midterm and
+semester goals for their specific tasks within their sub-team. 
+Each goal should have a deliverable
 that can be unambiguously evaluated as complete or incomplete (computer
 code, report, figure, etc.), and each student should submit a
 deliverable. Deliverables submitted by team members need not be unique,
-but ideally self-defined goals will be individualized, such that each
+but self-defined goals should be individualized, such that each
 team member has different deliverables that support a larger team-based
 goal.
 
@@ -232,15 +223,10 @@ the grade is controlled by two factors: i) ability to plan research and
 set realistic targets and ii) ability to achieve goals and deliver on a
 plan.
 
-#### New projects:
+Goals and deliverables for the training team will be provided
+by instructors and are known to be achievable based on many prior years
+of experience.
 
-For new projects (including the training project for new students) the
-instructor or sub-team advisor will provide the initial goals. The
-training project goals are based on results from prior semesters and are
-known to be reasonable; therefore, goals cannot be removed or revised to
-be less challenging. However, new project goals may be overambitious and
-students are encouraged to revise them at the midterm once they have a
-grasp of the long-term goals and scope of the project.
 
 #### Submission and peer review:
 
@@ -280,45 +266,37 @@ Course Format
 
 The course will by offered in a hybrid, flipped classroom format. We have multiple online MS students who work in the course, so it is important to provide a mechanism for remote participation. For this reason, we will pre-record training lecture videos and use the course time to meet and discuss the training materials or individual projects.
 
-The current plan for delivery of each lecture is provided below using the following types:
-
-* Virtual synchronous - these lectures will take place in a BlueJeans meeting room. The link will be provided via Canvas if it is not available here.
-* Pre-recorded - these lectures will be recorded and provided via Canvas. You are expected to **meet with your sub-team and mentor during class time** on these weeks. You can coordinate with your sub-team to decide on the most convenient option.
-* In person - all on-campus students are expected to come to the classroom for these lectures. Virtual students will present or interact using video conferencing as needed.
-
-This schedule is **subject to change** based on COVID protocols and instructor availability. We will do our best to keep this page updated, but please pay attention to Canvas announcements as well.
-
 
 Schedule 
 ========
 
-Week 1 (8/24): Introduction to VIP and projects (Medford - pre-recorded, Tian - virtual synchronous)
+Week 1 (1/11): Introduction to VIP and projects (Medford - synchronous)
 
-Week 2 (8/31): Overview of literature searches (Medford - pre-recorded)
+Week 2 (1/18): Overview of literature searches (Medford - pre-recorded)
 
-Week 3 (9/7): Intro to Python (Sahoo - pre-recorded)
+Week 3 (1/25): Intro to Python (Sahoo - pre-recorded)
 
-Week 4 (9/14): Intro to ASE and adsorption energies (Sahoo - pre-recorded)
+Week 4 (2/1): Intro to ASE and adsorption energies (Sahoo - pre-recorded)
 
-Week 5 (9/21): PACE and Bash scripting (Sahoo - pre-recorded)
+Week 5 (2/8): PACE and Bash scripting (Sahoo - pre-recorded)
 
-Week 6 (9/28): Density functional theory calculations (Sahoo - pre-recorded)
+Week 6 (2/15): Density functional theory calculations (Sahoo - pre-recorded)
 
-Week 7 (10/5): Workshop (virtual synchronous)
+Week 7 (2/22): Workshop (virtual synchronous)
 
-Week 8 (10/12): Midterm Updates (pre-recorded presentations, virtual synchronous Q&A)
+Week 8 (3/1): Midterm Updates (pre-recorded presentations, virtual synchronous Q&A)
 
-Week 9 (10/19): Atomistic machine learning: theory (Hu - pre-recorded)
+Week 9 (3/8): Atomistic machine learning: theory (Hu - pre-recorded)
 
-Week 10 (10/26): Atomistic machine learning: AMPTorch (Hu - pre-recorded)
+Week 10 (3/15): Atomistic machine learning: AMPTorch (Hu - pre-recorded)
 
-Week 11 (11/2): Atomistic machine learning: GMP features (Hu - pre-recorded)
+Week 11 (3/29): Atomistic machine learning: GMP features (Hu - pre-recorded)
 
-Week 12 (11/9): Workshop (virtual synchronous)
+Week 12 (4/5): Workshop (virtual synchronous)
 
-Week 13 (11/16): Workshop (virtual synchronous)
+Week 13 (4/12): Workshop (virtual synchronous)
 
-Week 14 (11/30): Final Updates (pre-recorded presentations, virtual synchronous Q&A)
+Week 14 (4/19): Final Updates (pre-recorded presentations, virtual synchronous Q&A)
 
 Changes to Syllabus
 ===================
