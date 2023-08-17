@@ -1,12 +1,12 @@
 Instructor: A. J. Medford
 
-TA's: Lucas Timmerman, Nicole Hu, Neung-Kyung Yu
+TA's: Lucas Timmerman, Logan Brabson, Neung-Kyung Yu
 
 Email: [ajm@gatech.edu](mailto:ajm@gatech.edu)
 
 [ltimmerman3@gatech.edu](mailto:ltimmerman3@gatech.edu)
        
-[yugehu@gatech.edu](mailto:yugehu@gatech.edu)
+[lbrabson3@gatech.edu](mailto:lbrabson3@gatech.edu)
        
 [nyu49@gatech.edu](mailto:nyu49@gatech.edu)
        
@@ -61,18 +61,15 @@ computer science, electrical engineering, industrial & systems
 engineering, chemical engineering, chemistry, physics, and materials
 science. The VIP course consists of three sub-teams:
 
--   Training: All new students must complete a “training” project that
-    involves the calculation of an adsorption energy using the
-    quantum-mechanical technique of density functional theory (DFT), and
-    training of a neural network model that can reproduce DFT results.
-    The codes for DFT are well-established, but require the use of
-    supercomputing resources and must be converged with respect to
-    several numerical parameters. The training exercise will introduce
-    students to high-performance computing, quantum-mechanical
-    simulations, and machine learning packages used for atomic
-    simulation data.
+-   Training: All new students must complete a training program that
+    involves the basics of high-performance computing, common quantum-mechanical techniques
+    such as Density Function Theory (DFT), and the development and use of machine learning 
+    techniques such as neural networks. DFT software packages are well-established, but 
+    require the use of supercomputing resources and must be converged with respect to
+    several numerical parameters. The training will cover approximately 10 weeks and is
+    highly represnetative of training programs for new graduate students in this field.
 
--   "Big Data": This sub-team will focus on training
+-   LUCAS GROUP: EDIT HERE This sub-team will focus on training
     machine-learning models to reproduce the output of DFT calculations.
     In particular, this team will utilize a variety of available technology to
     train and optimize models for the "[Open Catalyst Project](https://opencatalystproject.org/)"
@@ -81,19 +78,17 @@ science. The VIP course consists of three sub-teams:
     datasets for rapid testing, or developing new infrastructure to make
     data transfer and model deployment more efficient.
 
--   "Quantum Mechanics": This sub-team will focus on applying and improving
+-   NEUNG-KYUNG GROUP: EDIT HERE This sub-team will focus on applying and improving
     the [SPARC DFT code](https://www.sparc-x.com/) developed at Georgia Tech. 
     This may involve sub-tasks like developing new features for the Python
     interface to SPARC, testing recently developed algorithms in SPARC,
     creating pseudopotentials that enable faster and more accurate calculations
     with SPARC, or developing websites and infrastructure to make SPARC
     easier to use.
-    
-It is also possible to take on "independent study" projects within the course. These projects
-are generally based on a student's ideas or interests, and must be established and approved
-by Prof. Medford at least one week prior to the start of the semester. The projects are often
-high-risk exploratory projects that may eventually merge into sub-tasks of the "Big Data" or
-"Quantum Mechanics" sub-teams. If you are interested in an independent study project you should
+
+Returning VIP students who previously started work on a project may choose to continue 
+building on their existing work isntead of joining one of the above subgroups.
+If you are a returning student and are interested in an "independent study" project you should
 contact Dr. Medford as soon as possible to initiate discussions on what is within scope for
 the course and what is feasible given timelines and resources.
 
@@ -116,14 +111,13 @@ submission of assignments:
 Course Objectives
 =================
 
-1.  Calculate adsorption energies using the density functional
-    theory (DFT)
+1.  Generate atomistic simulation and adsorption energy data using density functional theory (DFT)
 
 2.  Converge numerical calculations with respect to input parameters
 
 3.  Submit, manage, and analyze high-performance computing jobs
 
-4.  Utilize machine-learning packages to predict the output of atomistic
+4.  Utilize machine-learning packages to model and predict the output of atomistic
     simulations
 
 5.  Work with a team to solve real-world problems at the intersection of
@@ -154,8 +148,7 @@ using the following:
 -   D: < 2
 
 You will receive a grade at the midterm and after the end of the course.
-The midterm grade is only advisory, and will not factor into the final
-calculation.
+**Both grades will average to determine your final letter grade.**
 
 Documentation
 -------------
