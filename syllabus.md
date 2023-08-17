@@ -69,7 +69,7 @@ science. The VIP course consists of three sub-teams:
     several numerical parameters. The training will cover approximately 10 weeks and is
     highly represnetative of training programs for new graduate students in this field.
 
--   LUCAS GROUP (led by Lucas Timmerman): EDIT HERE This sub-team will focus on training
+-   Machine Learning for Catalysis (led by Lucas Timmerman): EDIT HERE This sub-team will focus on training
     machine-learning models to reproduce the output of DFT calculations.
     In particular, this team will utilize a variety of available technology to
     train and optimize models for the "[Open Catalyst Project](https://opencatalystproject.org/)"
@@ -148,7 +148,7 @@ using the following:
 -   D: < 2
 
 You will receive a grade at the midterm and after the end of the course.
-Both grades will average to determine your final letter grade.
+**Both grades will average to determine your final letter grade.**
 
 Documentation
 -------------
@@ -184,8 +184,8 @@ Bi-weekly updates should be compiled into a single document and submitted at the
 Personal Accomplishments
 ------------------------
 
-Personal accomplishments will be measured by self-defined goals and a
-combination of instructor and peer evaluation. Within the **first three weeks**
+Personal accomplishments will be measured by self-defined goals and will be assessed
+by each student's respective TA lead. Within the **first three weeks**
 of the semester students will define midterm and
 semester goals for their specific tasks within their sub-team. 
 Each goal should have a deliverable
@@ -207,12 +207,9 @@ goal.
 
 -   1: No substantial progress is made towards goals (D)
 
-Similar to documentation, the accomplishments will be graded by your peers, and confirmed by the
-instructor. Importantly, the midterm assessment is only advisory, and
-students have an opportunity to **revise goals within 2 weeks of
+Students will have an opportunity to **revise goals within 2 weeks of
 receiving the midterm assessment**.
-The final grade will depend only on the revised goals. This means that
-the grade is controlled by two factors: i) ability to plan research and
+The letter grade is controlled by two factors: i) ability to plan research and
 set realistic targets and ii) ability to achieve goals and deliver on a
 plan.
 
@@ -221,10 +218,8 @@ by instructors and are known to be achievable based on many prior years
 of experience.
 
 
-#### Submission and peer review:
-
-The accomplishments will be initially graded by multiple peers and
-confirmed by the instructor. The deliverables will be submitted via
+#### Submission and review:
+The deliverables will be submitted via
 Canvas as a .zip file, and a copy of the project goals document should
 be included with the submission to aid the reviewers. 
 **All submissions should contain a file named "README"** that explains the
@@ -232,9 +227,7 @@ accomplishments in the context of the project goals and points the reviewer
 to necessary information.
 Any external deliverables (e.g. websites, Github, etc.) should be
 clearly referenced. The README can also contain any comments, instructions, or
-context that may be important for a grader. When grading other students’
-assignments you should use the above 1-5 scale and criteria as a
-guideline. Only materials included in or referenced in the submission
+context that may be important for a grader. Only materials included in or referenced in the submission
 should be used to assess the criteria (e.g. if a group presents
 something in the VIP meeting but does not include it in the submission
 then it does not count).
@@ -246,7 +239,7 @@ Teamwork and interaction will be graded based on peer evaluations
 conducted through the VIP website and your participation in peer grading.
 Note that this can be confusing. **Peer evaluations** occur twice per
 semester through the VIP website, while **peer grading** occurs bi-weekly for
-documentation and twice per semester for personal achievements.
+documentation.
 The **response rate for peer grading and peer evaluations will account 
 for 40% of the teamwork and interaction grade.**, while the scores you receive
 from your teammates in the peer evaluation will account for the other 60% of
@@ -257,39 +250,43 @@ assigned.
 Course Format
 -------------
 
-The course will by offered in a hybrid, flipped classroom format. We have multiple online MS students who work in the course, so it is important to provide a mechanism for remote participation. For this reason, we will pre-record training lecture videos and use the course time to meet and discuss the training materials or individual projects.
+The course will by offered in a hybrid format. We have multiple online MS students who work in the course, so it is important to provide a mechanism for remote participation. 
+For the training, group, lectures will be given live during the course time and **will not be recorded.**
+The two project groups will use the course time to meet and discuss progress on projects.
 
 
-Schedule 
+Training Schedule *(all synchronous)*
 ========
 
-Week 1 (1/11): Introduction to VIP and projects (Medford - synchronous)
+Week 1 (8/23): Introduction to VIP and projects (Medford)
 
-Week 2 (1/18): Overview of literature searches (Medford - pre-recorded)
+Week 2 (8/30): Overview of literature searches (Medford/Timmerman/Brabson)
 
-Week 3 (1/25): Intro to Python (Sahoo - pre-recorded)
+Week 3 (9/6): Intro to Python (Brabson)
 
-Week 4 (2/1): Intro to ASE and adsorption energies (Sahoo - pre-recorded)
+Week 4 (9/13): Intro to ASE (Brabson)
 
-Week 5 (2/8): PACE and Bash scripting (Sahoo - pre-recorded)
+Week 5 (9/20): PACE and Bash scripting (Brabson)
 
-Week 6 (2/15): Density functional theory calculations (Sahoo - pre-recorded)
+Week 6 (9/27): Intro to Density Functional Theory (Brabson)
 
-Week 7 (2/22): Workshop (virtual synchronous)
+Week 7 (10/4): DFT calculations and applications (Brabson)
 
-Week 8 (3/1): Midterm Updates (pre-recorded presentations, virtual synchronous Q&A)
+Week 8 (10/11): Midterm Updates (pre-recorded presentations, virtual synchronous Q&A)
 
-Week 9 (3/8): Atomistic machine learning: theory (Hu - pre-recorded)
+Week 9 (10/18): Machine learning basics: Regression (Brabson)
 
-Week 10 (3/15): Atomistic machine learning: AMPTorch (Hu - pre-recorded)
+Week 10 (10/25): Machine learning basics: Classification (Brabson)
 
-Week 11 (3/29): Atomistic machine learning: GMP features (Hu - pre-recorded)
+Week 11 (11/1): Projects
 
-Week 12 (4/5): Workshop (virtual synchronous)
+Week 12 (11/8): Projects
 
-Week 13 (4/12): Workshop (virtual synchronous)
+Week 13 (11/15): Projects
 
-Week 14 (4/19): Final Updates (pre-recorded presentations, virtual synchronous Q&A)
+Week 14 (11/22): Thanksgiving Break
+
+Week 15 (11/29): Final Updates (pre-recorded presentations, virtual synchronous Q&A)
 
 Changes to Syllabus
 ===================
