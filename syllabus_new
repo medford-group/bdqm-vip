@@ -61,7 +61,7 @@ computer science, electrical engineering, industrial & systems
 engineering, chemical engineering, chemistry, physics, and materials
 science. The VIP course consists of three sub-teams:
 
--   Training: All new students must complete a training program that
+-   Training (led by Logan Brabson): All new students must complete a training program that
     involves the basics of high-performance computing, common quantum-mechanical techniques
     such as Density Function Theory (DFT), and the development and use of machine learning 
     techniques such as neural networks. DFT software packages are well-established, but 
@@ -69,7 +69,7 @@ science. The VIP course consists of three sub-teams:
     several numerical parameters. The training will cover approximately 10 weeks and is
     highly represnetative of training programs for new graduate students in this field.
 
--   LUCAS GROUP: EDIT HERE This sub-team will focus on training
+-   LUCAS GROUP (led by Lucas Timmerman): EDIT HERE This sub-team will focus on training
     machine-learning models to reproduce the output of DFT calculations.
     In particular, this team will utilize a variety of available technology to
     train and optimize models for the "[Open Catalyst Project](https://opencatalystproject.org/)"
@@ -78,7 +78,7 @@ science. The VIP course consists of three sub-teams:
     datasets for rapid testing, or developing new infrastructure to make
     data transfer and model deployment more efficient.
 
--   NEUNG-KYUNG GROUP: EDIT HERE This sub-team will focus on applying and improving
+-   NEUNG-KYUNG GROUP (led by Neung-Kyung Yu): EDIT HERE This sub-team will focus on applying and improving
     the [SPARC DFT code](https://www.sparc-x.com/) developed at Georgia Tech. 
     This may involve sub-tasks like developing new features for the Python
     interface to SPARC, testing recently developed algorithms in SPARC,
@@ -148,7 +148,7 @@ using the following:
 -   D: < 2
 
 You will receive a grade at the midterm and after the end of the course.
-**Both grades will average to determine your final letter grade.**
+Both grades will average to determine your final letter grade.
 
 Documentation
 -------------
