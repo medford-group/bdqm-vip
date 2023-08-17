@@ -278,11 +278,11 @@ Week 9 (10/18): Machine learning basics: Regression (Brabson)
 
 Week 10 (10/25): Machine learning basics: Classification (Brabson)
 
-Week 11 (11/1): Projects
+Week 11 (11/1): Projects (Timmerman/Yu)
 
-Week 12 (11/8): Projects
+Week 12 (11/8): Projects (Timmerman/Yu)
 
-Week 13 (11/15): Projects
+Week 13 (11/15): Projects (Timmerman/Yu)
 
 Week 14 (11/22): Thanksgiving Break
 
