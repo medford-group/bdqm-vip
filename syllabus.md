@@ -75,13 +75,13 @@ science. The VIP course consists of three sub-teams:
 
 -   Machine Learning for Catalysis (led by Lucas Timmerman): This sub-team will have two thrusts:
     i.) developing large language models (LLM) for catalysis and ii.) creating an integrated and 
-    portable platform for training neural network force fields (NNFF) using python based autodifferentiation
+    portable platform for training neural networks (NNs) using python based autodifferentiation
     capabilities. Thrust i.) is more open ended and will involve fine tuning existing, open-source GPT models
     to predict catalyst properties, active sites, synthetic pathways etc. Students will have the opportunity
     to gain hands on experience developing LLMs, GPU programming expertise, and conceptual understanding of 
     problems in the heterogeneous catalysis community. The second thrust will be more focused on
     software engineering. There are several freely available autodifferentiation (or autograd) softwares
-    (pyTorch, TensorFlow, JAX) that can be utilized for developing NNFFs in a portable, lightweight, and 
+    (pyTorch, TensorFlow, JAX) that can be utilized for developing NNs in a portable, lightweight, and 
     highly customizable format. Students will gain hands on experience working with SOTA ML tools 
     and algorithms, as well as extensive experience developing sicentific pacakges in Python. No prior
     programming or catalysis experience is required to take on these projects, simply a willingness to
