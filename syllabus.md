@@ -10,11 +10,15 @@ Email: [ajm@gatech.edu](mailto:ajm@gatech.edu)
        
 [nyu49@gatech.edu](mailto:nyu49@gatech.edu)
        
-Office Hours: [By Appointment](https://app.acuityscheduling.com/schedule.php?owner=18040156&appointmentType=11047919)
+Dr. Medford Office Hours: [By Appointment](https://app.acuityscheduling.com/schedule.php?owner=18040156&appointmentType=11047919)
+
+TA Office Hours: Set up via email or slack correspondence
 
 Class Hours: W 9:30-10:20am
 
 Class Room: Zoom (see Canvas App)
+
+Training Materials: [Jupyter Book](https://medford-group.github.io/training-materials/)
 
 Course Description
 ==================
@@ -69,14 +73,20 @@ science. The VIP course consists of three sub-teams:
     several numerical parameters. The training will cover approximately 10 weeks and is
     highly represnetative of training programs for new graduate students in this field.
 
--   Machine Learning for Catalysis (led by Lucas Timmerman): EDIT HERE This sub-team will focus on training
-    machine-learning models to reproduce the output of DFT calculations.
-    In particular, this team will utilize a variety of available technology to
-    train and optimize models for the "[Open Catalyst Project](https://opencatalystproject.org/)"
-    challenge datasets. This may involve sub-tasks like testing the performance
-    of new models, optimization of hyper-parameters, establishing smaller sub-sampled 
-    datasets for rapid testing, or developing new infrastructure to make
-    data transfer and model deployment more efficient.
+-   Machine Learning for Catalysis (led by Lucas Timmerman): This sub-team will have two thrusts:
+    i.) developing large language models (LLM) for catalysis and ii.) creating an integrated and 
+    portable platform for training neural network force fields (NNFF) using python based autodifferentiation
+    capabilities. Thrust i.) is more open ended and will involve fine tuning existing, open-source GPT models
+    to predict catalyst properties, active sites, synthetic pathways etc. Students will have the opportunity
+    to gain hands on experience developing LLMs, GPU programming expertise, and conceptual understanding of 
+    problems in the heterogeneous catalysis community. The second thrust will be more focused on
+    software engineering. There are several freely available autodifferentiation (or autograd) softwares
+    (pyTorch, TensorFlow, JAX) that can be utilized for developing NNFFs in a portable, lightweight, and 
+    highly customizable format. Students will gain hands on experience working with SOTA ML tools 
+    and algorithms, as well as extensive experience developing sicentific pacakges in Python. No prior
+    programming or catalysis experience is required to take on these projects, simply a willingness to
+    learn and be challenged. I am seeking students who are eager to learn new skills/concepts and work
+    collaboratively on "bleedng" edge science.
 
 -   NEUNG-KYUNG GROUP (led by Neung-Kyung Yu): EDIT HERE This sub-team will focus on applying and improving
     the [SPARC DFT code](https://www.sparc-x.com/) developed at Georgia Tech. 
@@ -264,19 +274,19 @@ Week 2 (8/30): Overview of literature searches (Medford/Timmerman/Brabson)
 
 Week 3 (9/6): Intro to Python (Brabson)
 
-Week 4 (9/13): Intro to ASE (Brabson)
+Week 4 (9/13): Intro to ASE and HPC (Brabson)
 
-Week 5 (9/20): PACE and Bash scripting (Brabson)
+Week 5 (9/20): Intro to Density Functional Theory (Brabson)
 
-Week 6 (9/27): Intro to Density Functional Theory (Brabson)
+Week 6 (9/27): DFT calculations and applications (Brabson)
 
-Week 7 (10/4): DFT calculations and applications (Brabson)
+Week 7 (10/4): Machine learning basics (Brabson)
 
 Week 8 (10/11): Midterm Updates (pre-recorded presentations, virtual synchronous Q&A)
 
-Week 9 (10/18): Machine learning basics: Regression (Brabson)
+Week 9 (10/18): Projects (Timmerman/Yu)
 
-Week 10 (10/25): Machine learning basics: Classification (Brabson)
+Week 10 (10/25): Projects (Timmerman/Yu)
 
 Week 11 (11/1): Projects (Timmerman/Yu)
 
