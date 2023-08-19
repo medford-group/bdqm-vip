@@ -88,13 +88,8 @@ science. The VIP course consists of three sub-teams:
     learn and be challenged. I am seeking students who are eager to learn new skills/concepts and work
     collaboratively on "bleedng" edge science.
 
--   NEUNG-KYUNG GROUP (led by Neung-Kyung Yu): EDIT HERE This sub-team will focus on applying and improving
-    the [SPARC DFT code](https://www.sparc-x.com/) developed at Georgia Tech. 
-    This may involve sub-tasks like developing new features for the Python
-    interface to SPARC, testing recently developed algorithms in SPARC,
-    creating pseudopotentials that enable faster and more accurate calculations
-    with SPARC, or developing websites and infrastructure to make SPARC
-    easier to use.
+-   NEUNG-KYUNG GROUP (led by Neung-Kyung Yu):  This project involves using Density Functional Theory (DFT) to model and investigate surface reactions. DFT is a widely-used computational approach for simulating atomistic models. The project will employ the [SPARC code](https://www.sparc-x.com/), a recent DFT package developed by Prof. Suryanarayana at Georgia Tech, designed for massive parallel calculations. In this project, we will go beyond the scope of the DFT training materials and apply DFT to study fascinating surface reactions. Prior knowledge of the topics isn't required, but an interest in computational investigation of chemical reactions is needed as the project will involve greater complexity in both DFT and chemistry. Additionally, the project will involve testing new features in SPARC and enhancing its Python API.
+  
 
 Returning VIP students who previously started work on a project may choose to continue 
 building on their existing work isntead of joining one of the above subgroups.
