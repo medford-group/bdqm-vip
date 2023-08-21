@@ -63,7 +63,8 @@ application domain of surface science and catalysis. The team merges
 expertise from computational and physical sciences, and students from
 computer science, electrical engineering, industrial & systems
 engineering, chemical engineering, chemistry, physics, and materials
-science. The VIP course consists of three sub-teams:
+science. The VIP course consists of sub-teams with research topics
+developed by graduate students in the Medford group:
 
 -   Training (led by Logan Brabson): All new students must complete a training program that
     involves the basics of high-performance computing, common quantum-mechanical techniques
@@ -89,6 +90,8 @@ science. The VIP course consists of three sub-teams:
     collaboratively on "bleedng" edge science.
 
 -   DFT Modeling of Surface Reactions (led by Neung-Kyung Yu):  This project involves using Density Functional Theory (DFT) to model and investigate surface reactions. DFT is a widely-used computational approach for simulating atomistic models. The project will employ the [SPARC code](https://www.sparc-x.com/), a recent DFT package developed by Prof. Suryanarayana at Georgia Tech, designed for massive parallel calculations. In this project, we will go beyond the scope of the DFT training materials and apply DFT to study fascinating surface reactions. Prior knowledge of the topics isn't required, but an interest in computational investigation of chemical reactions is needed as the project will involve greater complexity in both DFT and chemistry. Additionally, the project will involve testing new features in SPARC and enhancing its Python API.
+
+-   Machine Learning for Electronic Structure (led by Jagriti Sahoo): This project will use machine learning models to analyze electronic structure data. More details coming soon.
   
 
 Returning VIP students who previously started work on a project may choose to continue 
@@ -111,7 +114,7 @@ submission of assignments:
 -   Slack: The group Slack channel is the preferred method of
     communication with instructors and graduate students. You are
     responsible for anything that is announced in the `vip`
-    Slack channel. You can join the Slack channel via [this link](https://join.slack.com/t/medfordgroup/shared_invite/zt-uj1pt7d3-TTF9QNEkhfmRELNy7lM3oA).
+    Slack channel. You can join the Slack channel via [this link]([https://join.slack.com/t/medfordgroup/shared_invite/zt-uj1pt7d3-TTF9QNEkhfmRELNy7lM3oA](https://join.slack.com/t/slack-ymv5720/shared_invite/zt-21v1xmbap-5FQMR2rgE0B5krwMZPFyBQ).
 
 Course Objectives
 =================
@@ -153,7 +156,7 @@ using the following:
 -   D: < 2
 
 You will receive a grade at the midterm and after the end of the course.
-**Both grades will average to determine your final letter grade.**
+**Both grades will averaged to determine your final letter grade.**
 
 Documentation
 -------------
@@ -190,8 +193,9 @@ Personal Accomplishments
 ------------------------
 
 Personal accomplishments will be measured by self-defined goals and will be assessed
-by each student's respective TA lead. Within the **first three weeks**
-of the semester students will define midterm and
+by each student's respective sub-team mentor. 
+Within the **first three weeks** of the semester students will work with their 
+sub-team mentor to define midterm and
 semester goals for their specific tasks within their sub-team. 
 Each goal should have a deliverable
 that can be unambiguously evaluated as complete or incomplete (computer
@@ -212,15 +216,16 @@ goal.
 
 -   1: No substantial progress is made towards goals (D)
 
-Students will have an opportunity to **revise goals within 2 weeks of
-receiving the midterm assessment**.
-The letter grade is controlled by two factors: i) ability to plan research and
+The letter grade will be determined by the sub-team leader, and
+is generally controlled by two factors: i) ability to plan research and
 set realistic targets and ii) ability to achieve goals and deliver on a
-plan.
+plan. The best way to ensure success is constant dialogue and communication
+with your sub-team leader about what you think you can achieve, and
+any challenges you're facing.
 
 Goals and deliverables for the training team will be provided
-by instructors and are known to be achievable based on many prior years
-of experience.
+by instructors and are known to be achievable based on prior 
+ experience.
 
 
 #### Submission and review:
@@ -256,8 +261,8 @@ Course Format
 -------------
 
 The course will by offered in a hybrid format. We have multiple online MS students who work in the course, so it is important to provide a mechanism for remote participation. 
-For the training, group, lectures will be given live during the course time and **will not be recorded.**
-The two project groups will use the course time to meet and discuss progress on projects.
+The main lecture will take place virtually, but sub-teams can meet in person and/or use hybrid meetings. For the training, group, lectures will be given live during the course time and **will not be recorded.** If you miss a lecture you are responsible for following up with other students and the TA's to catch up on what you missed.
+The project groups will use the course time to meet and discuss progress on projects.
 
 
 Training Schedule *(all synchronous)*
@@ -265,7 +270,7 @@ Training Schedule *(all synchronous)*
 
 Week 1 (8/23): Introduction to VIP and projects (Medford)
 
-Week 2 (8/30): Overview of literature searches (Medford/Timmerman/Brabson)
+Week 2 (8/30): Overview of literature searches (Medford/Timmerman/Brabson/Sahoo)
 
 Week 3 (9/6): Intro to Python (Brabson)
 
