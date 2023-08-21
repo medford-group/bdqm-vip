@@ -114,7 +114,7 @@ submission of assignments:
 -   Slack: The group Slack channel is the preferred method of
     communication with instructors and graduate students. You are
     responsible for anything that is announced in the `vip`
-    Slack channel. You can join the Slack channel via [this link](https://join.slack.com/t/slack-ymv5720/shared_invite/zt-21v1xmbap-5FQMR2rgE0B5krwMZPFyBQ).
+    Slack channel. You can join the Slack channel via [this link]( https://join.slack.com/t/slack-ymv5720/shared_invite/zt-21v1xmbap-5FQMR2rgE0B5krwMZPFyBQ ).
 
 Course Objectives
 =================
