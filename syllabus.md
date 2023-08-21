@@ -270,11 +270,11 @@ Training Schedule *(all synchronous)*
 
 Week 1 (8/23): Introduction to VIP and projects (Medford)
 
-Week 2 (8/30): Overview of literature searches (Medford/Timmerman/Brabson/Sahoo)
+Week 2 (8/30): VIP Subteam pitches (Medford/Timmerman/Brabson/Sahoo)
 
-Week 3 (9/6): Intro to Python (Brabson)
+Week 3 (9/6): Literature searches (Medford)
 
-Week 4 (9/13): Intro to ASE and HPC (Brabson)
+Week 4 (9/13): Intro to Python (Brabson) & Intro to ASE and HPC (Brabson)
 
 Week 5 (9/20): Intro to Density Functional Theory (Brabson)
 
