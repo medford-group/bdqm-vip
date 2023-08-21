@@ -1,20 +1,19 @@
 # Big Data and Quantum Mechanics Traning Project
-Advisors: Lucas Timmerman and Kaylee Tian
+Advisors: Logan Brabson
 
-This project covers basic training for 1) generating data using quantum-mechanical simulations based on density functional theory (DFT) and 2) using machine learning to create models that predict the outcome of these simulations based on large datasets.
+This project covers basic training for 1) generating data using quantum-mechanical simulations based on density functional theory (DFT) and 2) using machine learning to create models..
 
 
 ## Midterm Goal:
-Compute the reaction energy of 2H2O -> 2H2 + O2 using DFT on the PACE computing cluster. You will use the SPARC code with grid spacings (`h`) of 0.2, 0.16, 0.14, and 0.12 A and a k-point mesh of (1,1,1) to compute the adsorption energy. Be sure that you remember to "relax" the structures to find the optimal geometry of each molecule.
+Complete all assigned training materials. See the VIP specific page in the training materials [jupyter book](https://medford-group.github.io/training-materials) for which lectures and exercises need to be completed. 
 
 
 ### Midterm Deliverables:
-* A text file or spreadsheet containing the computed total energies and reaction energies at each grid spacing, and the path to the directory of the DFT calculation on the PACE cluster (be sure to change permissions).
-* A .zip file containing all relevant inputs and outputs for the calculatoin.
+* A .zip file containing pdfs of all jupyter notebooks (with solutions printed) demonstrating completion of the training exercises.
 
 ## Final Goal:
-Train a neural-network model to predict the energies and forces of 0.05 eV/Angstrom on the water data provided in `bdqm-vip/data/training_data.traj`. We recommend using the [Amptorch](https://github.com/ulissigroup/amptorch.git) package to complete this task.
+You need to join on of the sub-teams by the end of the semester. You should become familiar with the ongoing work and select a project that you would like to continue working on in future semesters. 
 
 ### Final Deliverables:
-* A zip/tar archive containing your trained force field and the training data used to generate it.
-* A script showing that you have tested the trained force field on a "test" set not used for training.
+* Completion of biweekly updates and peer evaluations
+* You should meet with the TA in charge of the sub team you joined at least once prior to the conclusion of the semester to discuss your interests and ideas for future project work
