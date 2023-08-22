@@ -1,3 +1,8 @@
+#This repo is now deprecated. Please use the following links instead:#
+
+* Github repo: https://github.com/medford-group/training-materials
+* Jupyter book: https://medford-group.github.io/training-materials/docs/VIP_Info.html
+
 # Big Data and Quantum Mechanics
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/medford-group/bdqm-vip/master)
