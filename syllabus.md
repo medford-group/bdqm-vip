@@ -91,9 +91,8 @@ developed by graduate students in the Medford group:
 
 -   DFT Modeling of Surface Reactions (led by Neung-Kyung Yu):  This project involves using Density Functional Theory (DFT) to model and investigate surface reactions. DFT is a widely-used computational approach for simulating atomistic models. The project will employ the [SPARC code](https://www.sparc-x.com/), a recent DFT package developed by Prof. Suryanarayana at Georgia Tech, designed for massive parallel calculations. In this project, we will go beyond the scope of the DFT training materials and apply DFT to study fascinating surface reactions. Prior knowledge of the topics isn't required, but an interest in computational investigation of chemical reactions is needed as the project will involve greater complexity in both DFT and chemistry. Additionally, the project will involve testing new features in SPARC and enhancing its Python API.
 
--   Machine Learning for Electronic Structure (led by Jagriti Sahoo): This project will use machine learning models to analyze electronic structure data. More details coming soon.
-  
-
+-   Machine Learning for Electronic Structure (led by Jagriti Sahoo): This project will use machine learning models to develop a framework to correct the DFT energies to that calculated at a higher level of theory (any wave-function method). This project involves understanding and running DFT calculations in SPARC to generate electronic structure data and analyze them using supervised and unsupervised ML methods. The project will also involve improving fingerprinting scheme implementation in SPARC. The students will gain hands on experience in python and C programming as well as emerging ML methods.
+-   
 Returning VIP students who previously started work on a project may choose to continue 
 building on their existing work isntead of joining one of the above subgroups.
 If you are a returning student and are interested in an "independent study" project you should
